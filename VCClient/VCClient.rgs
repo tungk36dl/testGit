@@ -1,0 +1,11 @@
+HKCR
+{
+	NoRemove AppID
+	{
+		{67FFF6C8-7356-4494-A46F-F3265A55A549} = s 'VCClient'
+		'VCClient.EXE'
+		{
+			val AppID = s {67FFF6C8-7356-4494-A46F-F3265A55A549}
+		}
+	}
+}

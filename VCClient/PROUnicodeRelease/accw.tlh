@@ -1,0 +1,877 @@
+﻿// Created by Microsoft (R) C/C++ Compiler Version 14.29.30147.0 (5e59185b).
+//
+// E:\BambooSVN\WINL-WP492-JOB1\Source\CommAPITestClients\VCClient\PROUnicodeRelease\accw.tlh
+//
+// C++ source equivalent of Win32 type library ..\..\accw\PROUnicodeRelease\accw.tlb
+// compiler-generated file created 11/23/22 at 17:28:32 - DO NOT EDIT!
+
+#pragma once
+#pragma pack(push, 8)
+
+#include <comdef.h>
+
+//
+// Forward references and typedefs
+//
+
+struct __declspec(uuid("f8efda04-97df-11d3-9438-00902730004e"))
+/* LIBID */ __Accw;
+enum wpServerTYPE;
+struct Device;
+struct __declspec(uuid("9dc1c803-1860-4b01-b850-cdcc322cdd97"))
+/* dual interface */ IBlobInterpreter;
+struct __declspec(uuid("bf3ebc54-109d-4668-8834-c03b62df7537"))
+/* dual interface */ IMTSCBServer;
+struct __declspec(uuid("f3f7d1b0-3d56-4e8d-ba11-9098553b8dab"))
+/* dual interface */ INetAXSDoorInfo;
+struct /* coclass */ TestList;
+struct __declspec(uuid("f8efda13-97df-11d3-9438-00902730004e"))
+/* dual interface */ ITestList;
+struct /* coclass */ ACCWrapper;
+struct __declspec(uuid("2bd654f8-9914-11d3-9438-00902730004e"))
+/* dual interface */ IACCWrapper;
+struct /* coclass */ WPAlarmView;
+struct __declspec(uuid("25feae27-a534-11d3-9445-00902730004e"))
+/* dual interface */ IWPAlarmView;
+struct __declspec(uuid("1888861d-a534-11d3-9445-00902730004e"))
+/* dual interface */ IWPAVCallBack;
+enum wpviewTYPE;
+struct __declspec(uuid("62792508-3cb4-4388-8980-27cf04eb57e9"))
+/* dual interface */ IStatusNotification;
+struct /* coclass */ BlobInterpreter;
+struct /* coclass */ CNetAXSDoorInfo;
+struct /* coclass */ MTSCBServer;
+
+//
+// Smart pointer typedef declarations
+//
+
+_COM_SMARTPTR_TYPEDEF(IBlobInterpreter, __uuidof(IBlobInterpreter));
+_COM_SMARTPTR_TYPEDEF(INetAXSDoorInfo, __uuidof(INetAXSDoorInfo));
+_COM_SMARTPTR_TYPEDEF(IMTSCBServer, __uuidof(IMTSCBServer));
+_COM_SMARTPTR_TYPEDEF(ITestList, __uuidof(ITestList));
+_COM_SMARTPTR_TYPEDEF(IACCWrapper, __uuidof(IACCWrapper));
+_COM_SMARTPTR_TYPEDEF(IWPAVCallBack, __uuidof(IWPAVCallBack));
+_COM_SMARTPTR_TYPEDEF(IWPAlarmView, __uuidof(IWPAlarmView));
+_COM_SMARTPTR_TYPEDEF(IStatusNotification, __uuidof(IStatusNotification));
+
+//
+// Type library items
+//
+
+enum wpServerTYPE
+{
+    wpALLSERVERS = 0,
+    wpDBSERVER = 1,
+    wpCOMSERVER = 2,
+    wpCMDFILESERVER = 8,
+    wpSCHEDULESERVER = 3,
+    wpMUSTERSERVER = 9,
+    wpGAURDTOURSERVER = 4
+};
+
+#pragma pack(push, 4)
+
+struct __declspec(uuid("ded0e8d8-8eb3-4615-ad17-409fde26f9f1"))
+Device
+{
+    BSTR sDeviceName;
+    long lDeviceID;
+    long lDeviceType;
+};
+
+#pragma pack(pop)
+
+struct __declspec(uuid("9dc1c803-1860-4b01-b850-cdcc322cdd97"))
+IBlobInterpreter : IDispatch
+{
+    //
+    // Raw methods provided by interface
+    //
+
+      virtual HRESULT __stdcall ExtractPanelAddress (
+        VARIANT * pBlob,
+        long DeviceType,
+        long * nPanelAddress,
+        /*[in]*/ VARIANT_BOOL bPort,
+        /*[in]*/ VARIANT * pParentBlob ) = 0;
+      virtual HRESULT __stdcall ExtractCOMPort (
+        VARIANT * pBlob,
+        long DeviceType,
+        VARIANT * nCommPort,
+        VARIANT * pParentBlob ) = 0;
+      virtual HRESULT __stdcall ExtractServerAddress (
+        VARIANT * pBlob,
+        long * nServerAddress,
+        BSTR * pServerName ) = 0;
+};
+
+struct __declspec(uuid("f3f7d1b0-3d56-4e8d-ba11-9098553b8dab"))
+INetAXSDoorInfo : IDispatch
+{
+    //
+    // Raw methods provided by interface
+    //
+
+      virtual HRESULT __stdcall get_DisableDoorTimezone (
+        /*[out,retval]*/ long * pVal ) = 0;
+      virtual HRESULT __stdcall put_DisableDoorTimezone (
+        /*[in]*/ long pVal ) = 0;
+      virtual HRESULT __stdcall get_LockdownReaderTimezone (
+        /*[out,retval]*/ long * pVal ) = 0;
+      virtual HRESULT __stdcall put_LockdownReaderTimezone (
+        /*[in]*/ long pVal ) = 0;
+      virtual HRESULT __stdcall get_CardOnlyTimezone (
+        /*[out,retval]*/ long * pVal ) = 0;
+      virtual HRESULT __stdcall put_CardOnlyTimezone (
+        /*[in]*/ long pVal ) = 0;
+      virtual HRESULT __stdcall get_PINOnlyTimezone (
+        /*[out,retval]*/ long * pVal ) = 0;
+      virtual HRESULT __stdcall put_PINOnlyTimezone (
+        /*[in]*/ long pVal ) = 0;
+      virtual HRESULT __stdcall get_CardOrPINTimezone (
+        /*[out,retval]*/ long * pVal ) = 0;
+      virtual HRESULT __stdcall put_CardOrPINTimezone (
+        /*[in]*/ long pVal ) = 0;
+      virtual HRESULT __stdcall get_CardAndPINTimezone (
+        /*[out,retval]*/ long * pVal ) = 0;
+      virtual HRESULT __stdcall put_CardAndPINTimezone (
+        /*[in]*/ long pVal ) = 0;
+      virtual HRESULT __stdcall get_CardOnlyPriority (
+        /*[out,retval]*/ short * pVal ) = 0;
+      virtual HRESULT __stdcall put_CardOnlyPriority (
+        /*[in]*/ short pVal ) = 0;
+      virtual HRESULT __stdcall get_PINOnlyPriority (
+        /*[out,retval]*/ short * pVal ) = 0;
+      virtual HRESULT __stdcall put_PINOnlyPriority (
+        /*[in]*/ short pVal ) = 0;
+      virtual HRESULT __stdcall get_CardAndPINPriority (
+        /*[out,retval]*/ short * pVal ) = 0;
+      virtual HRESULT __stdcall put_CardAndPINPriority (
+        /*[in]*/ short pVal ) = 0;
+      virtual HRESULT __stdcall get_CardOrPINPriority (
+        /*[out,retval]*/ short * pVal ) = 0;
+      virtual HRESULT __stdcall put_CardOrPINPriority (
+        /*[in]*/ short pVal ) = 0;
+};
+
+struct __declspec(uuid("bf3ebc54-109d-4668-8834-c03b62df7537"))
+IMTSCBServer : IDispatch
+{
+    //
+    // Raw methods provided by interface
+    //
+
+      virtual HRESULT __stdcall InitServer (
+        /*[in]*/ IDispatch * Caller,
+        /*[in]*/ long enumViewType,
+        /*[in]*/ BSTR sUserName,
+        /*[in]*/ BSTR sPassword,
+        /*[in]*/ long lUserid,
+        /*[out,retval]*/ VARIANT_BOOL * __MIDL__IMTSCBServer0000 ) = 0;
+      virtual HRESULT __stdcall DoneServer (
+        /*[in]*/ IDispatch * Caller,
+        /*[out,retval]*/ VARIANT_BOOL * __MIDL__IMTSCBServer0001 ) = 0;
+      virtual HRESULT __stdcall AckAlarm (
+        /*[in]*/ BSTR strData,
+        /*[in]*/ long lHID,
+        /*[in]*/ long lPoint ) = 0;
+      virtual HRESULT __stdcall ClrAlarm (
+        /*[in]*/ BSTR strData,
+        /*[in]*/ long lHID,
+        /*[in]*/ long lPoint ) = 0;
+      virtual HRESULT __stdcall AddNote (
+        /*[in]*/ long lHID,
+        /*[in]*/ long lPoint,
+        /*[in]*/ BSTR Note ) = 0;
+      virtual HRESULT __stdcall GetDetailsByID (
+        /*[in]*/ long lHID,
+        /*[in]*/ long lPoint,
+        /*[out]*/ BSTR * pbstrTransactionDetails ) = 0;
+      virtual HRESULT __stdcall AddFilterHID (
+        /*[in]*/ long lHID ) = 0;
+      virtual HRESULT __stdcall RemoveFilterHID (
+        /*[in]*/ long lHID ) = 0;
+      virtual HRESULT __stdcall GetFilterHIDs (
+        /*[out]*/ BSTR * pFilterHIDs ) = 0;
+      virtual HRESULT __stdcall AddFilterCommServerID (
+        /*[in]*/ long lCommServerID ) = 0;
+      virtual HRESULT __stdcall RemoveFilterCommServerID (
+        /*[in]*/ long lCommServerID ) = 0;
+      virtual HRESULT __stdcall GetFilterCommServerIDs (
+        /*[out,retval]*/ BSTR * pCommServerIDs ) = 0;
+      virtual HRESULT __stdcall EntryPointLock (
+        /*[in]*/ long lHID,
+        /*[in]*/ long lPoint ) = 0;
+      virtual HRESULT __stdcall EntryPointUnLock (
+        /*[in]*/ long lHID,
+        /*[in]*/ long lPoint ) = 0;
+      virtual HRESULT __stdcall AlarmShunt (
+        /*[in]*/ long lHID,
+        /*[in]*/ long lPoint ) = 0;
+      virtual HRESULT __stdcall AlarmUnShunt (
+        /*[in]*/ long lHID,
+        /*[in]*/ long lPoint ) = 0;
+      virtual HRESULT __stdcall EntryPointLockByHID (
+        /*[in]*/ long lHID ) = 0;
+      virtual HRESULT __stdcall EntryPointUnLockByHID (
+        /*[in]*/ long lHID ) = 0;
+      virtual HRESULT __stdcall AlarmShuntByHID (
+        /*[in]*/ long lHID ) = 0;
+      virtual HRESULT __stdcall AlarmUnShuntByHID (
+        /*[in]*/ long lHID ) = 0;
+      virtual HRESULT __stdcall PulseByHID (
+        /*[in]*/ long lHID ) = 0;
+      virtual HRESULT __stdcall Energize (
+        /*[in]*/ long lHID ) = 0;
+      virtual HRESULT __stdcall DeEnergize (
+        /*[in]*/ long lHID ) = 0;
+      virtual HRESULT __stdcall TimedPulseByHID (
+        /*[in]*/ long lHID,
+        /*[in]*/ long lUnits,
+        /*[in]*/ long lVal ) = 0;
+      virtual HRESULT __stdcall RestoreTZByHID (
+        /*[in]*/ long lHID ) = 0;
+      virtual HRESULT __stdcall BufferByHID (
+        /*[in]*/ long lHID,
+        /*[in]*/ long lVal ) = 0;
+      virtual HRESULT __stdcall UnBufferByHID (
+        /*[in]*/ long lHID,
+        /*[in]*/ long lVal ) = 0;
+      virtual HRESULT __stdcall DoorModeByHID (
+        /*[in]*/ long lHID,
+        /*[in]*/ long lVal ) = 0;
+      virtual HRESULT __stdcall GetStatus (
+        /*[in]*/ long lHID,
+        /*[in]*/ long lDeviceType,
+        /*[out,retval]*/ long * __MIDL__IMTSCBServer0002 ) = 0;
+      virtual HRESULT __stdcall ListConnectedDevices (
+        /*[out,retval]*/ VARIANT * __MIDL__IMTSCBServer0003 ) = 0;
+      virtual HRESULT __stdcall PanelInitialize (
+        /*[in]*/ long lHID,
+        /*[in]*/ long lHIDtype,
+        /*[in]*/ VARIANT vTasks ) = 0;
+      virtual HRESULT __stdcall PanelCancelInitialize (
+        /*[in]*/ long lHID ) = 0;
+      virtual HRESULT __stdcall GetDefaultACRMode (
+        /*[in]*/ long lHID,
+        /*[out]*/ int * nMode ) = 0;
+      virtual HRESULT __stdcall IsConnected (
+        /*[out]*/ long * bStatus ) = 0;
+      virtual HRESULT __stdcall GetMusterElemenets (
+        /*[out]*/ BSTR * sTransaction,
+        /*[in]*/ long AreaId,
+        /*[in]*/ long AccountId,
+        /*[in]*/ int iSortField,
+        /*[in]*/ int iSortOrder,
+        /*[out]*/ long * bStatus ) = 0;
+      virtual HRESULT __stdcall ExecCustomCommand (
+        /*[in]*/ long lHID,
+        /*[in]*/ BSTR bstrCommand ) = 0;
+      virtual HRESULT __stdcall ExecuteDoorSchedule (
+        /*[in]*/ long lPanelHID,
+        /*[in]*/ long lPanelType,
+        /*[in]*/ long lEntranceID,
+        /*[in]*/ long lEntrancePointID,
+        /*[in]*/ long lTZID ) = 0;
+      virtual HRESULT __stdcall GetDoorStatus (
+        long lReaderHID,
+        /*[out,retval]*/ long * lDoorStatus ) = 0;
+      virtual HRESULT __stdcall GetDoorStatus2 (
+        long lReaderHID,
+        /*[out,retval]*/ long * lDoorStatus ) = 0;
+      virtual HRESULT __stdcall IsConnected2 (
+        long lServerHID,
+        /*[out,retval]*/ BSTR * sOutStstus ) = 0;
+      virtual HRESULT __stdcall SetNetAXSDoorModeByHID (
+        /*[in]*/ long lHID,
+        /*[in]*/ struct INetAXSDoorInfo * pDoorInfo,
+        /*[out]*/ long * plStatus ) = 0;
+      virtual HRESULT __stdcall GetNetAXSDoorModeByHID (
+        /*[in]*/ long lHID,
+        /*[out]*/ VARIANT * pDoorInfo ) = 0;
+      virtual HRESULT __stdcall RefreshDoorsByAccId (
+        long AccountId,
+        long * lStatus ) = 0;
+      virtual HRESULT __stdcall LockUnLockAllDoors (
+        long AccountId,
+        long isLock ) = 0;
+      virtual HRESULT __stdcall UnbypassZone (
+        long ZoneHID ) = 0;
+      virtual HRESULT __stdcall ForceBypassZone (
+        long ZoneHID ) = 0;
+      virtual HRESULT __stdcall RefreshZone (
+        long ZoneHID ) = 0;
+      virtual HRESULT __stdcall ActivateGalaxyOutput (
+        long OutPutHID ) = 0;
+      virtual HRESULT __stdcall DeActivateGalaxyOutput (
+        long OutPutHID ) = 0;
+      virtual HRESULT __stdcall RefreshGalaxyOutput (
+        long OutPutHID ) = 0;
+      virtual HRESULT __stdcall BypassGalaxyZoneByType (
+        long GalaxyPanelHID,
+        int iType ) = 0;
+      virtual HRESULT __stdcall UnBypassGalaxyZoneByType (
+        long GalaxyPanelHID,
+        int iType ) = 0;
+      virtual HRESULT __stdcall ForceBypassGalaxyZoneByType (
+        long GalaxyPanelHID,
+        int iType ) = 0;
+      virtual HRESULT __stdcall ActivateGalaxyOutputByType (
+        long OutPutHID,
+        int iType ) = 0;
+      virtual HRESULT __stdcall DeActivateGalaxyOutputByType (
+        long OutPutHID,
+        int iType ) = 0;
+      virtual HRESULT __stdcall ArmAwayVistaPartition (
+        long PartitionHID ) = 0;
+      virtual HRESULT __stdcall ArmStayVistaPartition (
+        long PartitionHID ) = 0;
+      virtual HRESULT __stdcall DisArmVistaPartition (
+        long PartitionHID ) = 0;
+      virtual HRESULT __stdcall RefreshVistaPartition (
+        long VistaPartitionHID ) = 0;
+      virtual HRESULT __stdcall BypassVistaZone (
+        long VistaZoneHID ) = 0;
+      virtual HRESULT __stdcall UnBypassVistaZone (
+        long VistaZoneHID ) = 0;
+      virtual HRESULT __stdcall RefreshVistaZone (
+        long VistaZoneHID ) = 0;
+      virtual HRESULT __stdcall ActivateVistaOutput (
+        long VistaOutputHID ) = 0;
+      virtual HRESULT __stdcall DeActivateVistaOutput (
+        long VistaOutputHID ) = 0;
+      virtual HRESULT __stdcall RefreshVistaOutput (
+        long VistaOutputHID ) = 0;
+      virtual HRESULT __stdcall ResetVistaPanel (
+        long VistaPanelHID ) = 0;
+      virtual HRESULT __stdcall VistaPanelRefresh (
+        long VistaPanelHID ) = 0;
+      virtual HRESULT __stdcall ShuntDVRInput (
+        long DVRInputHID ) = 0;
+      virtual HRESULT __stdcall UnShuntDVRInput (
+        long DVRInputHID ) = 0;
+      virtual HRESULT __stdcall EnergizeDVROutput (
+        long DVROutputHID ) = 0;
+      virtual HRESULT __stdcall DeEnergizeDVROutput (
+        long DVROutputHID ) = 0;
+      virtual HRESULT __stdcall TimedPulseDVROutput (
+        long DVROutputHID,
+        int iTime,
+        int iTimeUnit ) = 0;
+      virtual HRESULT __stdcall ResetAPBNetAXSPanel (
+        long NetAXSGatewayPanelHID ) = 0;
+      virtual HRESULT __stdcall EnableWebModeNetAXSPanel (
+        long NetAXSGatewayPanelHID ) = 0;
+      virtual HRESULT __stdcall DisableWebModeNetAXSPanel (
+        long NetAXSGatewayPanelHID ) = 0;
+      virtual HRESULT __stdcall BypassZoneZone (
+        long ZoneHID,
+        /*[out]*/ int * Status,
+        /*[out]*/ BSTR * OutMessage ) = 0;
+      virtual HRESULT __stdcall RefreshGalaxyGroup (
+        long GalaxyGroupHID ) = 0;
+      virtual HRESULT __stdcall UnOmitGalaxyGroup (
+        long GalaxyGroupHID ) = 0;
+      virtual HRESULT __stdcall OmitGalaxyGroup (
+        long GalaxyGroupHID ) = 0;
+      virtual HRESULT __stdcall TimedSetGalaxyGroup (
+        long GalaxyGroupHID,
+        int iTime,
+        int iTimeUnit ) = 0;
+      virtual HRESULT __stdcall PartsetGalaxyGroup (
+        long GalaxyGroupHID ) = 0;
+      virtual HRESULT __stdcall UnsetGalaxyGroup (
+        long GalaxyGroupHID ) = 0;
+      virtual HRESULT __stdcall SetGalaxyGroup (
+        long GalaxyGroupHID ) = 0;
+      virtual HRESULT __stdcall ResetGalaxyPanel (
+        long GalaxyPanelHID ) = 0;
+      virtual HRESULT __stdcall ResetNetAXSPanel (
+        long NetAXSGWPanelHID ) = 0;
+      virtual HRESULT __stdcall UnsetGroupsByGalaxyPanel (
+        long lGalaxypanelHID ) = 0;
+      virtual HRESULT __stdcall SetGroupsByGalaxyPanel (
+        long lGalaxypanelHID ) = 0;
+      virtual HRESULT __stdcall RepeatedPulse (
+        long OutPutHID,
+        int iOnTime,
+        int iOffTime,
+        int iRepeatCount ) = 0;
+      virtual HRESULT __stdcall RefreshTimezones (
+        long PanelHID ) = 0;
+      virtual HRESULT __stdcall SetCommandTimeout (
+        long LoopHID,
+        int iRetryCount ) = 0;
+      virtual HRESULT __stdcall SetRetryCount (
+        long LoopHID,
+        int iRetryCount ) = 0;
+      virtual HRESULT __stdcall SetOccupancyLevel (
+        long NetAXSGWPanelHID ) = 0;
+      virtual HRESULT __stdcall SetCardsToUnused (
+        long PanelHID ) = 0;
+      virtual HRESULT __stdcall UnbufferAll (
+        long LoopHID,
+        int iModeHardBuffer ) = 0;
+      virtual HRESULT __stdcall BufferAll (
+        long LoopHID,
+        int iModeHardBuffer ) = 0;
+      virtual HRESULT __stdcall RunCmdFile (
+        long lCommandFileId ) = 0;
+      virtual HRESULT __stdcall SetOperatorId (
+        unsigned long OperatorId ) = 0;
+      virtual HRESULT __stdcall PanelRefreshTZByHID (
+        /*[in]*/ long lHID ) = 0;
+      virtual HRESULT __stdcall InitServer2 (
+        /*[in]*/ IDispatch * Caller,
+        /*[in]*/ long enumViewType,
+        /*[in]*/ BSTR sUserName,
+        /*[in]*/ BSTR sPassword,
+        /*[in]*/ BSTR sDomainName,
+        /*[in]*/ long lUserid,
+        /*[out,retval]*/ VARIANT_BOOL * __MIDL__IMTSCBServer0004 ) = 0;
+      virtual HRESULT __stdcall GetConfiguredWPDomains (
+        /*[out]*/ VARIANT * vDomains ) = 0;
+};
+
+struct __declspec(uuid("f8efda14-97df-11d3-9438-00902730004e"))
+TestList;
+    // [ default ] interface ITestList
+
+struct __declspec(uuid("f8efda13-97df-11d3-9438-00902730004e"))
+ITestList : IDispatch
+{
+    //
+    // Raw methods provided by interface
+    //
+
+      virtual HRESULT __stdcall MakeNewNode (
+        /*[in]*/ long lCount ) = 0;
+      virtual HRESULT __stdcall DisplayList ( ) = 0;
+};
+
+struct __declspec(uuid("2bd654f9-9914-11d3-9438-00902730004e"))
+ACCWrapper;
+    // [ default ] interface IACCWrapper
+
+struct __declspec(uuid("2bd654f8-9914-11d3-9438-00902730004e"))
+IACCWrapper : IDispatch
+{
+    //
+    // Raw methods provided by interface
+    //
+
+      virtual HRESULT __stdcall SetDBConnection (
+        /*[in]*/ BSTR sName,
+        /*[in]*/ BSTR sPwd ) = 0;
+      virtual HRESULT __stdcall SetHID (
+        /*[in]*/ long lHID ) = 0;
+      virtual HRESULT __stdcall SetCommConnection ( ) = 0;
+};
+
+struct __declspec(uuid("25feae28-a534-11d3-9445-00902730004e"))
+WPAlarmView;
+    // [ default ] interface IWPAlarmView
+    // interface IWPAVCallBack
+    // interface IStatusNotification
+
+struct __declspec(uuid("1888861d-a534-11d3-9445-00902730004e"))
+IWPAVCallBack : IDispatch
+{
+    //
+    // Raw methods provided by interface
+    //
+
+      virtual HRESULT __stdcall GotMessage (
+        /*[in]*/ BSTR bstrTranInfo ) = 0;
+      virtual HRESULT __stdcall ServerError (
+        /*[in]*/ BSTR bstrErrorInfo ) = 0;
+};
+
+enum __declspec(uuid("1777761d-a534-11d3-9445-00902730004e"))
+wpviewTYPE
+{
+    wpviewAlarm = 1,
+    wpviewEvent = 2,
+    wpviewAlarmEvent = 3,
+    wpCommandOnly = 4
+};
+
+struct __declspec(uuid("25feae27-a534-11d3-9445-00902730004e"))
+IWPAlarmView : IDispatch
+{
+    //
+    // Raw methods provided by interface
+    //
+
+      virtual HRESULT __stdcall Advise (
+        /*[in]*/ struct IWPAVCallBack * pWPAVCallBack ) = 0;
+      virtual HRESULT __stdcall UnAdvise ( ) = 0;
+      virtual HRESULT __stdcall InitWPAlarmView (
+        enum wpviewTYPE enumViewType,
+        BSTR bstrDomainName,
+        BSTR bstrMachine,
+        BSTR bstrUserName,
+        BSTR bstrPassword,
+        long * plUserID,
+        long lInterval ) = 0;
+      virtual HRESULT __stdcall DoneWPAlarmView ( ) = 0;
+      virtual HRESULT __stdcall AckAlarm (
+        BSTR bstrTransaction,
+        long lHID,
+        long lPoint ) = 0;
+      virtual HRESULT __stdcall ClrAlarm (
+        BSTR bstrTransaction,
+        long lHID,
+        long lPoint ) = 0;
+      virtual HRESULT __stdcall AddNote (
+        BSTR bstrTransaction,
+        long lHID,
+        long lPoint,
+        BSTR bstrNote ) = 0;
+      virtual HRESULT __stdcall AddFilterHID (
+        long lHID ) = 0;
+      virtual HRESULT __stdcall RemoveFilterHID (
+        long lHID ) = 0;
+      virtual HRESULT __stdcall GetFilterHIDs (
+        BSTR * bstrHIDs ) = 0;
+      virtual HRESULT __stdcall AddFilterCommServerID (
+        long lCommServerID ) = 0;
+      virtual HRESULT __stdcall RemoveFilterCommServerID (
+        long lCommServerID ) = 0;
+      virtual HRESULT __stdcall GetFilterCommServerIDs (
+        BSTR * bstrCommServerIDs ) = 0;
+      virtual HRESULT __stdcall GetDetailsByID (
+        BSTR bstrTransaction,
+        long lHID,
+        long lPoint,
+        BSTR * pbstrTransactionDetails ) = 0;
+      virtual HRESULT __stdcall EntryPointLock (
+        BSTR bstrTransaction,
+        long lHID,
+        long lPoint ) = 0;
+      virtual HRESULT __stdcall EntryPointUnLock (
+        BSTR bstrTransaction,
+        long lHID,
+        long lPoint ) = 0;
+      virtual HRESULT __stdcall AlarmPulse (
+        BSTR bstrTransaction,
+        long lHID,
+        long lPoint ) = 0;
+      virtual HRESULT __stdcall AlarmTimedPulse (
+        BSTR bstrTransaction,
+        long lHID,
+        long lPoint,
+        long lUnits,
+        long lVal ) = 0;
+      virtual HRESULT __stdcall AlarmRestoreTZ (
+        BSTR bstrTransaction,
+        long lHID,
+        long lPoint ) = 0;
+      virtual HRESULT __stdcall AlarmShunt (
+        BSTR bstrTransaction,
+        long lHID,
+        long lPoint ) = 0;
+      virtual HRESULT __stdcall AlarmUnShunt (
+        BSTR bstrTransaction,
+        long lHID,
+        long lPoint ) = 0;
+      virtual HRESULT __stdcall AlarmBuffer (
+        BSTR bstrTransaction,
+        long lHID,
+        long lPoint,
+        long lVal ) = 0;
+      virtual HRESULT __stdcall AlarmUnBuffer (
+        BSTR bstrTransaction,
+        long lHID,
+        long lPoint,
+        long lVal ) = 0;
+      virtual HRESULT __stdcall AlarmDoorMode (
+        BSTR bstrTransaction,
+        long lHID,
+        long lPoint,
+        long lVal ) = 0;
+      virtual HRESULT __stdcall EntryPointLockByHID (
+        BSTR bstrTransaction,
+        long lHID ) = 0;
+      virtual HRESULT __stdcall EntryPointUnLockByHID (
+        BSTR bstrTransaction,
+        long lHID ) = 0;
+      virtual HRESULT __stdcall AlarmPulseByHID (
+        BSTR bstrTransaction,
+        long lHID ) = 0;
+      virtual HRESULT __stdcall AlarmTimedPulseByHID (
+        BSTR bstrTransaction,
+        long lHID,
+        long lUnits,
+        long lVal ) = 0;
+      virtual HRESULT __stdcall AlarmRestoreTZByHID (
+        BSTR bstrTransaction,
+        long lHID ) = 0;
+      virtual HRESULT __stdcall AlarmShuntByHID (
+        BSTR bstrTransaction,
+        long lHID ) = 0;
+      virtual HRESULT __stdcall AlarmUnShuntByHID (
+        BSTR bstrTransaction,
+        long lHID ) = 0;
+      virtual HRESULT __stdcall AlarmBufferByHID (
+        BSTR bstrTransaction,
+        long lHID,
+        long lVal ) = 0;
+      virtual HRESULT __stdcall AlarmUnBufferByHID (
+        BSTR bstrTransaction,
+        long lHID,
+        long lVal ) = 0;
+      virtual HRESULT __stdcall AlarmDoorModeByHID (
+        BSTR bstrTransaction,
+        long lHID,
+        long lVal ) = 0;
+      virtual HRESULT __stdcall Energize (
+        /*[in]*/ long lHID ) = 0;
+      virtual HRESULT __stdcall DeEnergize (
+        /*[in]*/ long lHID ) = 0;
+      virtual HRESULT __stdcall PanelInitialize (
+        /*[in]*/ long lHID,
+        /*[in]*/ long lHIDtype,
+        /*[in]*/ VARIANT vTasks ) = 0;
+      virtual HRESULT __stdcall PanelCancelInitialize (
+        /*[in]*/ long lHID ) = 0;
+      virtual HRESULT __stdcall GetDefaultACRMode (
+        /*[in]*/ long lHID,
+        /*[out]*/ int * nMode ) = 0;
+      virtual HRESULT __stdcall IsConnected (
+        /*[out]*/ long * bStatus ) = 0;
+      virtual HRESULT __stdcall GetMusterElemenets (
+        /*[out]*/ BSTR * sTransaction,
+        /*[in]*/ long AreaId,
+        /*[in]*/ long AccountId,
+        /*[in]*/ int iSortField,
+        /*[in]*/ int iSortOrder,
+        /*[out]*/ long * bStatus ) = 0;
+      virtual HRESULT __stdcall ExecCustomCommand (
+        /*[in]*/ long lHID,
+        /*[in]*/ BSTR bstrCommand ) = 0;
+      virtual HRESULT __stdcall ExecuteDoorSchedule (
+        /*[in]*/ long lPanelHID,
+        /*[in]*/ long lPanelType,
+        /*[in]*/ long lEntranceID,
+        /*[in]*/ long lEntrancePointID,
+        /*[in]*/ long lTZID ) = 0;
+      virtual HRESULT __stdcall GetDoorStatus (
+        long lReaderHID,
+        /*[out,retval]*/ long * lDoorStatus ) = 0;
+      virtual HRESULT __stdcall GetDoorStatus2 (
+        long lReaderId,
+        /*[out,retval]*/ long * lStatus ) = 0;
+      virtual HRESULT __stdcall IsConnected2 (
+        long serverType,
+        /*[out,retval]*/ BSTR * sOutStstus ) = 0;
+      virtual HRESULT __stdcall SetNetAXSDoorModeByHID (
+        BSTR bstrTransaction,
+        /*[in]*/ long lHID,
+        /*[in]*/ struct INetAXSDoorInfo * pDoorInfo,
+        /*[out]*/ long * plStatus ) = 0;
+      virtual HRESULT __stdcall GetNetAXSDoorModeByHID (
+        /*[in]*/ BSTR bstrTransaction,
+        long lHID,
+        /*[out]*/ VARIANT * pDoorInfo ) = 0;
+      virtual HRESULT __stdcall RefreshDoorsByAccId (
+        long AccountId,
+        long * lStatus ) = 0;
+      virtual HRESULT __stdcall LockUnLockAllDoors (
+        long AccountId,
+        long isLock ) = 0;
+      virtual HRESULT __stdcall UnbypassZone (
+        long ZoneHID ) = 0;
+      virtual HRESULT __stdcall ForceBypassZone (
+        long ZoneHID ) = 0;
+      virtual HRESULT __stdcall RefreshZone (
+        long ZoneHID ) = 0;
+      virtual HRESULT __stdcall ActivateGalaxyOutput (
+        long OutPutHID ) = 0;
+      virtual HRESULT __stdcall DeActivateGalaxyOutput (
+        long OutPutHID ) = 0;
+      virtual HRESULT __stdcall RefreshGalaxyOutput (
+        long OutPutHID ) = 0;
+      virtual HRESULT __stdcall BypassGalaxyZoneByType (
+        long GalaxyPanelHID,
+        int iType ) = 0;
+      virtual HRESULT __stdcall UnBypassGalaxyZoneByType (
+        long GalaxyPanelHID,
+        int iType ) = 0;
+      virtual HRESULT __stdcall ForceBypassGalaxyZoneByType (
+        long GalaxyPanelHID,
+        int iType ) = 0;
+      virtual HRESULT __stdcall ActivateGalaxyOutputByType (
+        long OutPutHID,
+        int iType ) = 0;
+      virtual HRESULT __stdcall DeActivateGalaxyOutputByType (
+        long OutPutHID,
+        int iType ) = 0;
+      virtual HRESULT __stdcall ArmAwayVistaPartition (
+        long PartitionHID ) = 0;
+      virtual HRESULT __stdcall ArmStayVistaPartition (
+        long PartitionHID ) = 0;
+      virtual HRESULT __stdcall DisArmVistaPartition (
+        long PartitionHID ) = 0;
+      virtual HRESULT __stdcall RefreshVistaPartition (
+        long VistaPartitionHID ) = 0;
+      virtual HRESULT __stdcall BypassVistaZone (
+        long VistaZoneHID ) = 0;
+      virtual HRESULT __stdcall UnBypassVistaZone (
+        long VistaZoneHID ) = 0;
+      virtual HRESULT __stdcall RefreshVistaZone (
+        long VistaZoneHID ) = 0;
+      virtual HRESULT __stdcall ActivateVistaOutput (
+        long VistaOutputHID ) = 0;
+      virtual HRESULT __stdcall DeActivateVistaOutput (
+        long VistaOutputHID ) = 0;
+      virtual HRESULT __stdcall RefreshVistaOutput (
+        long VistaOutputHID ) = 0;
+      virtual HRESULT __stdcall ResetVistaPanel (
+        long VistaPanelHID ) = 0;
+      virtual HRESULT __stdcall VistaPanelRefresh (
+        long VistaPanelHID ) = 0;
+      virtual HRESULT __stdcall ShuntDVRInput (
+        long DVRInputHID ) = 0;
+      virtual HRESULT __stdcall UnShuntDVRInput (
+        long DVRInputHID ) = 0;
+      virtual HRESULT __stdcall EnergizeDVROutput (
+        long DVROutputHID ) = 0;
+      virtual HRESULT __stdcall DeEnergizeDVROutput (
+        long DVROutputHID ) = 0;
+      virtual HRESULT __stdcall TimedPulseDVROutput (
+        long DVROutputHID,
+        int iTime,
+        int iTimeUnit ) = 0;
+      virtual HRESULT __stdcall ResetAPBNetAXSPanel (
+        long NetAXSGatewayPanelHID ) = 0;
+      virtual HRESULT __stdcall EnableWebModeNetAXSPanel (
+        long NetAXSGatewayPanelHID ) = 0;
+      virtual HRESULT __stdcall DisableWebModeNetAXSPanel (
+        long NetAXSGatewayPanelHID ) = 0;
+      virtual HRESULT __stdcall BypassZoneZone (
+        long ZoneHID,
+        /*[out]*/ int * Status,
+        /*[out]*/ BSTR * OutMessage ) = 0;
+      virtual HRESULT __stdcall RefreshGalaxyGroup (
+        long GalaxyGroupHID ) = 0;
+      virtual HRESULT __stdcall UnOmitGalaxyGroup (
+        long GalaxyGroupHID ) = 0;
+      virtual HRESULT __stdcall OmitGalaxyGroup (
+        long GalaxyGroupHID ) = 0;
+      virtual HRESULT __stdcall TimedSetGalaxyGroup (
+        long GalaxyGroupHID,
+        int iTime,
+        int iTimeUnit ) = 0;
+      virtual HRESULT __stdcall PartsetGalaxyGroup (
+        long GalaxyGroupHID ) = 0;
+      virtual HRESULT __stdcall UnsetGalaxyGroup (
+        long GalaxyGroupHID ) = 0;
+      virtual HRESULT __stdcall SetGalaxyGroup (
+        long GalaxyGroupHID ) = 0;
+      virtual HRESULT __stdcall ResetGalaxyPanel (
+        long GalaxyPanelHID ) = 0;
+      virtual HRESULT __stdcall ResetNetAXSPanel (
+        long NetAXSGWPanelHID ) = 0;
+      virtual HRESULT __stdcall UnsetGroupsByGalaxyPanel (
+        long lGalaxypanelHID ) = 0;
+      virtual HRESULT __stdcall SetGroupsByGalaxyPanel (
+        long lGalaxypanelHID ) = 0;
+      virtual HRESULT __stdcall RepeatedPulse (
+        long OutPutHID,
+        int iOnTime,
+        int iOffTime,
+        int iRepeatCount ) = 0;
+      virtual HRESULT __stdcall RefreshTimezones (
+        long PanelHID ) = 0;
+      virtual HRESULT __stdcall SetCommandTimeout (
+        long LoopHID,
+        int iRetryCount ) = 0;
+      virtual HRESULT __stdcall SetRetryCount (
+        long LoopHID,
+        int iRetryCount ) = 0;
+      virtual HRESULT __stdcall SetOccupancyLevel (
+        long NetAXSGWPanelHID ) = 0;
+      virtual HRESULT __stdcall SetCardsToUnused (
+        long PanelHID ) = 0;
+      virtual HRESULT __stdcall UnbufferAll (
+        long LoopHID,
+        int iModeHardBuffer ) = 0;
+      virtual HRESULT __stdcall BufferAll (
+        long LoopHID,
+        int iModeHardBuffer ) = 0;
+      virtual HRESULT __stdcall RunCmdFile (
+        long lCommandFileId ) = 0;
+      virtual HRESULT __stdcall SetOperatorId (
+        unsigned long OperatorId ) = 0;
+      virtual HRESULT __stdcall PanelRefreshTZByHID (
+        /*[in]*/ BSTR bstrTransaction,
+        /*[in]*/ long lHID ) = 0;
+      virtual HRESULT __stdcall GetConfiguredWPDomains (
+        /*[out]*/ VARIANT * vDomains ) = 0;
+};
+
+struct __declspec(uuid("62792508-3cb4-4388-8980-27cf04eb57e9"))
+IStatusNotification : IDispatch
+{
+    //
+    // Raw methods provided by interface
+    //
+
+      virtual HRESULT __stdcall GetStatusNotification (
+        long lHID,
+        long lDeviceType,
+        VARIANT * vStatus ) = 0;
+      virtual HRESULT __stdcall GetConnectedDevices (
+        VARIANT * vDevice ) = 0;
+};
+
+struct __declspec(uuid("e4e672ae-4101-44e2-96d2-9cd2a0f9eeb6"))
+BlobInterpreter;
+    // [ default ] interface IBlobInterpreter
+
+struct __declspec(uuid("3e4dfc04-f1bb-4a6d-9c6b-a1193a7ee00d"))
+CNetAXSDoorInfo;
+    // [ default ] interface INetAXSDoorInfo
+
+struct __declspec(uuid("5f016b52-7b30-438f-9c67-036878acf734"))
+MTSCBServer;
+    // [ default ] interface IMTSCBServer
+
+//
+// Named GUID constants initializations
+//
+
+extern "C" const GUID __declspec(selectany) LIBID_Accw =
+    {0xf8efda04,0x97df,0x11d3,{0x94,0x38,0x00,0x90,0x27,0x30,0x00,0x4e}};
+extern "C" const GUID __declspec(selectany) IID_IBlobInterpreter =
+    {0x9dc1c803,0x1860,0x4b01,{0xb8,0x50,0xcd,0xcc,0x32,0x2c,0xdd,0x97}};
+extern "C" const GUID __declspec(selectany) IID_INetAXSDoorInfo =
+    {0xf3f7d1b0,0x3d56,0x4e8d,{0xba,0x11,0x90,0x98,0x55,0x3b,0x8d,0xab}};
+extern "C" const GUID __declspec(selectany) IID_IMTSCBServer =
+    {0xbf3ebc54,0x109d,0x4668,{0x88,0x34,0xc0,0x3b,0x62,0xdf,0x75,0x37}};
+extern "C" const GUID __declspec(selectany) CLSID_TestList =
+    {0xf8efda14,0x97df,0x11d3,{0x94,0x38,0x00,0x90,0x27,0x30,0x00,0x4e}};
+extern "C" const GUID __declspec(selectany) IID_ITestList =
+    {0xf8efda13,0x97df,0x11d3,{0x94,0x38,0x00,0x90,0x27,0x30,0x00,0x4e}};
+extern "C" const GUID __declspec(selectany) CLSID_ACCWrapper =
+    {0x2bd654f9,0x9914,0x11d3,{0x94,0x38,0x00,0x90,0x27,0x30,0x00,0x4e}};
+extern "C" const GUID __declspec(selectany) IID_IACCWrapper =
+    {0x2bd654f8,0x9914,0x11d3,{0x94,0x38,0x00,0x90,0x27,0x30,0x00,0x4e}};
+extern "C" const GUID __declspec(selectany) CLSID_WPAlarmView =
+    {0x25feae28,0xa534,0x11d3,{0x94,0x45,0x00,0x90,0x27,0x30,0x00,0x4e}};
+extern "C" const GUID __declspec(selectany) IID_IWPAVCallBack =
+    {0x1888861d,0xa534,0x11d3,{0x94,0x45,0x00,0x90,0x27,0x30,0x00,0x4e}};
+extern "C" const GUID __declspec(selectany) IID_IWPAlarmView =
+    {0x25feae27,0xa534,0x11d3,{0x94,0x45,0x00,0x90,0x27,0x30,0x00,0x4e}};
+extern "C" const GUID __declspec(selectany) IID_IStatusNotification =
+    {0x62792508,0x3cb4,0x4388,{0x89,0x80,0x27,0xcf,0x04,0xeb,0x57,0xe9}};
+extern "C" const GUID __declspec(selectany) CLSID_BlobInterpreter =
+    {0xe4e672ae,0x4101,0x44e2,{0x96,0xd2,0x9c,0xd2,0xa0,0xf9,0xee,0xb6}};
+extern "C" const GUID __declspec(selectany) CLSID_CNetAXSDoorInfo =
+    {0x3e4dfc04,0xf1bb,0x4a6d,{0x9c,0x6b,0xa1,0x19,0x3a,0x7e,0xe0,0x0d}};
+extern "C" const GUID __declspec(selectany) CLSID_MTSCBServer =
+    {0x5f016b52,0x7b30,0x438f,{0x9c,0x67,0x03,0x68,0x78,0xac,0xf7,0x34}};
+
+#pragma pack(pop)

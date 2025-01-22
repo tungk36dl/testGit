@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Program Files (x86)\\WINPAKPRO\\DBAPI\\API Samples\\WIN-PAK Comm Server API\\WPCommSharpClient\\WPCommSharpClient\\WPCommSharpClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE221A6-0675-4198-B743-1BC6B1AECDA1}|WPCommSharpClient\\WPCommSharpClient.csproj|c:\\program files (x86)\\winpakpro\\dbapi\\api samples\\win-pak comm server api\\wpcommsharpclient\\wpcommsharpclient\\wpcommsharpclient\\wpcommsharpclient\\controller\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAE221A6-0675-4198-B743-1BC6B1AECDA1}|WPCommSharpClient\\WPCommSharpClient.csproj|solutionrelative:wpcommsharpclient\\controller\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE221A6-0675-4198-B743-1BC6B1AECDA1}|WPCommSharpClient\\WPCommSharpClient.csproj|C:\\Program Files (x86)\\WINPAKPRO\\DBAPI\\API Samples\\WIN-PAK Comm Server API\\WPCommSharpClient\\WPCommSharpClient\\WPCommSharpClient\\wpcommsharpclient\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BAE221A6-0675-4198-B743-1BC6B1AECDA1}|WPCommSharpClient\\WPCommSharpClient.csproj|solutionrelative:wpcommsharpclient\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE221A6-0675-4198-B743-1BC6B1AECDA1}|WPCommSharpClient\\WPCommSharpClient.csproj|C:\\Program Files (x86)\\WINPAKPRO\\DBAPI\\API Samples\\WIN-PAK Comm Server API\\WPCommSharpClient\\WPCommSharpClient\\WPCommSharpClient\\wpcommsharpclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAE221A6-0675-4198-B743-1BC6B1AECDA1}|WPCommSharpClient\\WPCommSharpClient.csproj|solutionrelative:wpcommsharpclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE221A6-0675-4198-B743-1BC6B1AECDA1}|WPCommSharpClient\\WPCommSharpClient.csproj|C:\\Program Files (x86)\\WINPAKPRO\\DBAPI\\API Samples\\WIN-PAK Comm Server API\\WPCommSharpClient\\WPCommSharpClient\\WPCommSharpClient\\wpcommsharpclient\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAE221A6-0675-4198-B743-1BC6B1AECDA1}|WPCommSharpClient\\WPCommSharpClient.csproj|solutionrelative:wpcommsharpclient\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE221A6-0675-4198-B743-1BC6B1AECDA1}|WPCommSharpClient\\WPCommSharpClient.csproj|C:\\Program Files (x86)\\WINPAKPRO\\DBAPI\\API Samples\\WIN-PAK Comm Server API\\WPCommSharpClient\\WPCommSharpClient\\WPCommSharpClient\\wpcommsharpclient\\helpers\\loggingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAE221A6-0675-4198-B743-1BC6B1AECDA1}|WPCommSharpClient\\WPCommSharpClient.csproj|solutionrelative:wpcommsharpclient\\helpers\\loggingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE221A6-0675-4198-B743-1BC6B1AECDA1}|WPCommSharpClient\\WPCommSharpClient.csproj|C:\\Program Files (x86)\\WINPAKPRO\\DBAPI\\API Samples\\WIN-PAK Comm Server API\\WPCommSharpClient\\WPCommSharpClient\\WPCommSharpClient\\wpcommsharpclient\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BAE221A6-0675-4198-B743-1BC6B1AECDA1}|WPCommSharpClient\\WPCommSharpClient.csproj|solutionrelative:wpcommsharpclient\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE221A6-0675-4198-B743-1BC6B1AECDA1}|WPCommSharpClient\\WPCommSharpClient.csproj|C:\\Program Files (x86)\\WINPAKPRO\\DBAPI\\API Samples\\WIN-PAK Comm Server API\\WPCommSharpClient\\WPCommSharpClient\\WPCommSharpClient\\wpcommsharpclient\\wpcallbackclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAE221A6-0675-4198-B743-1BC6B1AECDA1}|WPCommSharpClient\\WPCommSharpClient.csproj|solutionrelative:wpcommsharpclient\\wpcallbackclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\WINPAKPRO\\DBAPI\\API Samples\\WIN-PAK Comm Server API\\WPCommSharpClient\\WPCommSharpClient\\WPCommSharpClient\\WPCommSharpClient\\bin\\Debug\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WPCommSharpClient\\bin\\Debug\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE221A6-0675-4198-B743-1BC6B1AECDA1}|WPCommSharpClient\\WPCommSharpClient.csproj|C:\\Program Files (x86)\\WINPAKPRO\\DBAPI\\API Samples\\WIN-PAK Comm Server API\\WPCommSharpClient\\WPCommSharpClient\\WPCommSharpClient\\wpcommsharpclient\\properties\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BAE221A6-0675-4198-B743-1BC6B1AECDA1}|WPCommSharpClient\\WPCommSharpClient.csproj|solutionrelative:wpcommsharpclient\\properties\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE221A6-0675-4198-B743-1BC6B1AECDA1}|WPCommSharpClient\\WPCommSharpClient.csproj|C:\\Program Files (x86)\\WINPAKPRO\\DBAPI\\API Samples\\WIN-PAK Comm Server API\\WPCommSharpClient\\WPCommSharpClient\\WPCommSharpClient\\wpcommsharpclient\\helpers\\responseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAE221A6-0675-4198-B743-1BC6B1AECDA1}|WPCommSharpClient\\WPCommSharpClient.csproj|solutionrelative:wpcommsharpclient\\helpers\\responseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE221A6-0675-4198-B743-1BC6B1AECDA1}|WPCommSharpClient\\WPCommSharpClient.csproj|C:\\Program Files (x86)\\WINPAKPRO\\DBAPI\\API Samples\\WIN-PAK Comm Server API\\WPCommSharpClient\\WPCommSharpClient\\WPCommSharpClient\\wpcommsharpclient\\formrequests\\formloginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAE221A6-0675-4198-B743-1BC6B1AECDA1}|WPCommSharpClient\\WPCommSharpClient.csproj|solutionrelative:wpcommsharpclient\\formrequests\\formloginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApiController.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\WINPAKPRO\\DBAPI\\API Samples\\WIN-PAK Comm Server API\\WPCommSharpClient\\WPCommSharpClient\\WPCommSharpClient\\WPCommSharpClient\\Controller\\ApiController.cs",
+              "RelativeDocumentMoniker": "WPCommSharpClient\\Controller\\ApiController.cs",
+              "ToolTip": "C:\\Program Files (x86)\\WINPAKPRO\\DBAPI\\API Samples\\WIN-PAK Comm Server API\\WPCommSharpClient\\WPCommSharpClient\\WPCommSharpClient\\WPCommSharpClient\\Controller\\ApiController.cs",
+              "RelativeToolTip": "WPCommSharpClient\\Controller\\ApiController.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAIwEQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T02:03:44.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\WINPAKPRO\\DBAPI\\API Samples\\WIN-PAK Comm Server API\\WPCommSharpClient\\WPCommSharpClient\\WPCommSharpClient\\WPCommSharpClient\\Program.cs",
+              "RelativeDocumentMoniker": "WPCommSharpClient\\Program.cs",
+              "ToolTip": "C:\\Program Files (x86)\\WINPAKPRO\\DBAPI\\API Samples\\WIN-PAK Comm Server API\\WPCommSharpClient\\WPCommSharpClient\\WPCommSharpClient\\WPCommSharpClient\\Program.cs",
+              "RelativeToolTip": "WPCommSharpClient\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T01:49:59.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Program Files (x86)\\WINPAKPRO\\DBAPI\\API Samples\\WIN-PAK Comm Server API\\WPCommSharpClient\\WPCommSharpClient\\WPCommSharpClient\\WPCommSharpClient\\bin\\Debug\\appsettings.json",
+              "RelativeDocumentMoniker": "WPCommSharpClient\\bin\\Debug\\appsettings.json",
+              "ToolTip": "C:\\Program Files (x86)\\WINPAKPRO\\DBAPI\\API Samples\\WIN-PAK Comm Server API\\WPCommSharpClient\\WPCommSharpClient\\WPCommSharpClient\\WPCommSharpClient\\bin\\Debug\\appsettings.json",
+              "RelativeToolTip": "WPCommSharpClient\\bin\\Debug\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-07T14:25:16.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "app.manifest",
+              "DocumentMoniker": "C:\\Program Files (x86)\\WINPAKPRO\\DBAPI\\API Samples\\WIN-PAK Comm Server API\\WPCommSharpClient\\WPCommSharpClient\\WPCommSharpClient\\WPCommSharpClient\\Properties\\app.manifest",
+              "RelativeDocumentMoniker": "WPCommSharpClient\\Properties\\app.manifest",
+              "ToolTip": "C:\\Program Files (x86)\\WINPAKPRO\\DBAPI\\API Samples\\WIN-PAK Comm Server API\\WPCommSharpClient\\WPCommSharpClient\\WPCommSharpClient\\WPCommSharpClient\\Properties\\app.manifest",
+              "RelativeToolTip": "WPCommSharpClient\\Properties\\app.manifest",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2025-01-07T14:18:25.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Program Files (x86)\\WINPAKPRO\\DBAPI\\API Samples\\WIN-PAK Comm Server API\\WPCommSharpClient\\WPCommSharpClient\\WPCommSharpClient\\WPCommSharpClient\\appsettings.json",
+              "RelativeDocumentMoniker": "WPCommSharpClient\\appsettings.json",
+              "ToolTip": "C:\\Program Files (x86)\\WINPAKPRO\\DBAPI\\API Samples\\WIN-PAK Comm Server API\\WPCommSharpClient\\WPCommSharpClient\\WPCommSharpClient\\WPCommSharpClient\\appsettings.json",
+              "RelativeToolTip": "WPCommSharpClient\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-07T14:16:45.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\WINPAKPRO\\DBAPI\\API Samples\\WIN-PAK Comm Server API\\WPCommSharpClient\\WPCommSharpClient\\WPCommSharpClient\\WPCommSharpClient\\Startup.cs",
+              "RelativeDocumentMoniker": "WPCommSharpClient\\Startup.cs",
+              "ToolTip": "C:\\Program Files (x86)\\WINPAKPRO\\DBAPI\\API Samples\\WIN-PAK Comm Server API\\WPCommSharpClient\\WPCommSharpClient\\WPCommSharpClient\\WPCommSharpClient\\Startup.cs",
+              "RelativeToolTip": "WPCommSharpClient\\Startup.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T03:02:50.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WPCallbackClient.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\WINPAKPRO\\DBAPI\\API Samples\\WIN-PAK Comm Server API\\WPCommSharpClient\\WPCommSharpClient\\WPCommSharpClient\\WPCommSharpClient\\WPCallbackClient.cs",
+              "RelativeDocumentMoniker": "WPCommSharpClient\\WPCallbackClient.cs",
+              "ToolTip": "C:\\Program Files (x86)\\WINPAKPRO\\DBAPI\\API Samples\\WIN-PAK Comm Server API\\WPCommSharpClient\\WPCommSharpClient\\WPCommSharpClient\\WPCommSharpClient\\WPCallbackClient.cs",
+              "RelativeToolTip": "WPCommSharpClient\\WPCallbackClient.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T03:03:20.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoggingConfig.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\WINPAKPRO\\DBAPI\\API Samples\\WIN-PAK Comm Server API\\WPCommSharpClient\\WPCommSharpClient\\WPCommSharpClient\\WPCommSharpClient\\Helpers\\LoggingConfig.cs",
+              "RelativeDocumentMoniker": "WPCommSharpClient\\Helpers\\LoggingConfig.cs",
+              "ToolTip": "C:\\Program Files (x86)\\WINPAKPRO\\DBAPI\\API Samples\\WIN-PAK Comm Server API\\WPCommSharpClient\\WPCommSharpClient\\WPCommSharpClient\\WPCommSharpClient\\Helpers\\LoggingConfig.cs",
+              "RelativeToolTip": "WPCommSharpClient\\Helpers\\LoggingConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T02:32:18.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Program Files (x86)\\WINPAKPRO\\DBAPI\\API Samples\\WIN-PAK Comm Server API\\WPCommSharpClient\\WPCommSharpClient\\WPCommSharpClient\\WPCommSharpClient\\App.config",
+              "RelativeDocumentMoniker": "WPCommSharpClient\\App.config",
+              "ToolTip": "C:\\Program Files (x86)\\WINPAKPRO\\DBAPI\\API Samples\\WIN-PAK Comm Server API\\WPCommSharpClient\\WPCommSharpClient\\WPCommSharpClient\\WPCommSharpClient\\App.config",
+              "RelativeToolTip": "WPCommSharpClient\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-07T04:25:35.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormLoginRequest.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\WINPAKPRO\\DBAPI\\API Samples\\WIN-PAK Comm Server API\\WPCommSharpClient\\WPCommSharpClient\\WPCommSharpClient\\WPCommSharpClient\\FormRequests\\FormLoginRequest.cs",
+              "RelativeDocumentMoniker": "WPCommSharpClient\\FormRequests\\FormLoginRequest.cs",
+              "ToolTip": "C:\\Program Files (x86)\\WINPAKPRO\\DBAPI\\API Samples\\WIN-PAK Comm Server API\\WPCommSharpClient\\WPCommSharpClient\\WPCommSharpClient\\WPCommSharpClient\\FormRequests\\FormLoginRequest.cs",
+              "RelativeToolTip": "WPCommSharpClient\\FormRequests\\FormLoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T02:57:08.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ResponseResult.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\WINPAKPRO\\DBAPI\\API Samples\\WIN-PAK Comm Server API\\WPCommSharpClient\\WPCommSharpClient\\WPCommSharpClient\\WPCommSharpClient\\Helpers\\ResponseResult.cs",
+              "RelativeDocumentMoniker": "WPCommSharpClient\\Helpers\\ResponseResult.cs",
+              "ToolTip": "C:\\Program Files (x86)\\WINPAKPRO\\DBAPI\\API Samples\\WIN-PAK Comm Server API\\WPCommSharpClient\\WPCommSharpClient\\WPCommSharpClient\\WPCommSharpClient\\Helpers\\ResponseResult.cs",
+              "RelativeToolTip": "WPCommSharpClient\\Helpers\\ResponseResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T03:02:14.665Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

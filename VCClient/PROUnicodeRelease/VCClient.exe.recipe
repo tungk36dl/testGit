@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>E:\BambooSVN\WINL-WP492-JOB1\Source\accw\PROUnicodeRelease\accw.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>E:\BambooSVN\WINL-WP492-JOB1\Source\CommAPITestClients\VCClient\PROUnicodeRelease\VCClient.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

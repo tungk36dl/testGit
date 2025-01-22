@@ -1,0 +1,483 @@
+2025-01-20 08:38:47.231 +07:00 [DBG] Username: admin
+2025-01-20 08:38:47.654 +07:00 [INF] Server initialized and logged in successfully.
+2025-01-20 08:39:14.044 +07:00 [DBG] Calling unlock ....
+2025-01-20 08:39:14.044 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 08:39:14.107 +07:00 [DBG] Total time: 62.7573 ms
+2025-01-20 08:39:14.107 +07:00 [DBG] UnLock successful.
+2025-01-20 08:39:16.888 +07:00 [DBG] Calling unlock ....
+2025-01-20 08:39:16.888 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 08:39:16.935 +07:00 [DBG] Total time: 46.5186 ms
+2025-01-20 08:39:16.935 +07:00 [DBG] UnLock successful.
+2025-01-20 08:39:18.200 +07:00 [DBG] Calling unlock ....
+2025-01-20 08:39:18.200 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 08:39:18.294 +07:00 [DBG] Total time: 93.567 ms
+2025-01-20 08:39:18.294 +07:00 [DBG] UnLock successful.
+2025-01-20 08:39:18.966 +07:00 [DBG] Calling unlock ....
+2025-01-20 08:39:18.966 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 08:39:19.138 +07:00 [DBG] Total time: 171.7657 ms
+2025-01-20 08:39:19.138 +07:00 [DBG] UnLock successful.
+2025-01-20 08:39:19.795 +07:00 [DBG] Calling unlock ....
+2025-01-20 08:39:19.795 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 08:39:19.841 +07:00 [DBG] Total time: 46.9328 ms
+2025-01-20 08:39:19.841 +07:00 [DBG] UnLock successful.
+2025-01-20 08:39:20.326 +07:00 [DBG] Calling unlock ....
+2025-01-20 08:39:20.326 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 08:39:20.576 +07:00 [DBG] Total time: 250.7025 ms
+2025-01-20 08:39:20.576 +07:00 [DBG] UnLock successful.
+2025-01-20 08:39:21.295 +07:00 [DBG] Calling unlock ....
+2025-01-20 08:39:21.295 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 08:39:21.326 +07:00 [DBG] Total time: 31.3931 ms
+2025-01-20 08:39:21.326 +07:00 [DBG] UnLock successful.
+2025-01-20 08:39:21.779 +07:00 [DBG] Calling unlock ....
+2025-01-20 08:39:21.779 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 08:39:21.841 +07:00 [DBG] Total time: 62.8087 ms
+2025-01-20 08:39:21.841 +07:00 [DBG] UnLock successful.
+2025-01-20 08:39:22.232 +07:00 [DBG] Calling unlock ....
+2025-01-20 08:39:22.232 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 08:39:22.279 +07:00 [DBG] Total time: 46.75 ms
+2025-01-20 08:39:22.279 +07:00 [DBG] UnLock successful.
+2025-01-20 08:39:22.826 +07:00 [DBG] Calling unlock ....
+2025-01-20 08:39:22.826 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 08:39:22.857 +07:00 [DBG] Total time: 31.262 ms
+2025-01-20 08:39:22.857 +07:00 [DBG] UnLock successful.
+2025-01-20 08:39:23.326 +07:00 [DBG] Calling unlock ....
+2025-01-20 08:39:23.326 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 08:39:23.373 +07:00 [DBG] Total time: 46.9616 ms
+2025-01-20 08:39:23.373 +07:00 [DBG] UnLock successful.
+2025-01-20 08:39:23.888 +07:00 [DBG] Calling unlock ....
+2025-01-20 08:39:23.888 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 08:39:23.919 +07:00 [DBG] Total time: 31.2197 ms
+2025-01-20 08:39:23.919 +07:00 [DBG] UnLock successful.
+2025-01-20 08:39:24.466 +07:00 [DBG] Calling unlock ....
+2025-01-20 08:39:24.466 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 08:39:24.561 +07:00 [DBG] Total time: 94.3398 ms
+2025-01-20 08:39:24.561 +07:00 [DBG] UnLock successful.
+2025-01-20 08:39:25.044 +07:00 [DBG] Calling unlock ....
+2025-01-20 08:39:25.044 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 08:39:25.092 +07:00 [DBG] Total time: 47.286 ms
+2025-01-20 08:39:25.092 +07:00 [DBG] UnLock successful.
+2025-01-20 08:39:25.591 +07:00 [DBG] Calling unlock ....
+2025-01-20 08:39:25.591 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 08:39:25.622 +07:00 [DBG] Total time: 31.2044 ms
+2025-01-20 08:39:25.622 +07:00 [DBG] UnLock successful.
+2025-01-20 08:40:20.123 +07:00 [DBG] Calling unlock ....
+2025-01-20 08:40:20.123 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 08:40:20.154 +07:00 [DBG] Total time: 30.9659 ms
+2025-01-20 08:40:20.154 +07:00 [DBG] UnLock successful.
+2025-01-20 08:40:20.716 +07:00 [DBG] Calling unlock ....
+2025-01-20 08:40:20.716 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 08:40:20.794 +07:00 [DBG] Total time: 78.2364 ms
+2025-01-20 08:40:20.794 +07:00 [DBG] UnLock successful.
+2025-01-20 08:40:21.138 +07:00 [DBG] Calling unlock ....
+2025-01-20 08:40:21.138 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 08:40:21.185 +07:00 [DBG] Total time: 46.7922 ms
+2025-01-20 08:40:21.185 +07:00 [DBG] UnLock successful.
+2025-01-20 08:40:22.779 +07:00 [DBG] Calling unlock ....
+2025-01-20 08:40:22.779 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 08:40:22.904 +07:00 [DBG] Total time: 124.7342 ms
+2025-01-20 08:40:22.904 +07:00 [DBG] UnLock successful.
+2025-01-20 08:40:23.607 +07:00 [DBG] Calling unlock ....
+2025-01-20 08:40:23.607 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 08:40:23.638 +07:00 [DBG] Total time: 31.2894 ms
+2025-01-20 08:40:23.638 +07:00 [DBG] UnLock successful.
+2025-01-20 08:40:24.153 +07:00 [DBG] Calling unlock ....
+2025-01-20 08:40:24.153 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 08:40:24.232 +07:00 [DBG] Total time: 78.2317 ms
+2025-01-20 08:40:24.232 +07:00 [DBG] UnLock successful.
+2025-01-20 08:40:32.123 +07:00 [DBG] Calling unlock ....
+2025-01-20 08:40:32.123 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 08:40:32.185 +07:00 [DBG] Total time: 62.1686 ms
+2025-01-20 08:40:32.185 +07:00 [DBG] UnLock successful.
+2025-01-20 08:40:32.528 +07:00 [DBG] Calling unlock ....
+2025-01-20 08:40:32.528 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 08:40:32.591 +07:00 [DBG] Total time: 62.6145 ms
+2025-01-20 08:40:32.591 +07:00 [DBG] UnLock successful.
+2025-01-20 08:40:32.919 +07:00 [DBG] Calling unlock ....
+2025-01-20 08:40:32.919 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 08:40:32.967 +07:00 [DBG] Total time: 47.4081 ms
+2025-01-20 08:40:32.967 +07:00 [DBG] UnLock successful.
+2025-01-20 08:40:33.700 +07:00 [DBG] Calling unlock ....
+2025-01-20 08:40:33.700 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 08:40:33.763 +07:00 [DBG] Total time: 62.5534 ms
+2025-01-20 08:40:33.763 +07:00 [DBG] UnLock successful.
+2025-01-20 08:40:34.232 +07:00 [DBG] Calling unlock ....
+2025-01-20 08:40:34.232 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 08:40:34.404 +07:00 [DBG] Total time: 172.1293 ms
+2025-01-20 08:40:34.404 +07:00 [DBG] UnLock successful.
+2025-01-20 08:40:34.669 +07:00 [DBG] Calling unlock ....
+2025-01-20 08:40:34.669 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 08:40:34.794 +07:00 [DBG] Total time: 124.9374 ms
+2025-01-20 08:40:34.794 +07:00 [DBG] UnLock successful.
+2025-01-20 08:40:35.450 +07:00 [DBG] Calling unlock ....
+2025-01-20 08:40:35.450 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 08:40:35.513 +07:00 [DBG] Total time: 62.7372 ms
+2025-01-20 08:40:35.513 +07:00 [DBG] UnLock successful.
+2025-01-20 08:40:35.997 +07:00 [DBG] Calling unlock ....
+2025-01-20 08:40:35.997 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 08:40:36.122 +07:00 [DBG] Total time: 124.8772 ms
+2025-01-20 08:40:36.122 +07:00 [DBG] UnLock successful.
+2025-01-20 08:40:37.013 +07:00 [DBG] Calling unlock ....
+2025-01-20 08:40:37.013 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 08:40:37.045 +07:00 [DBG] Total time: 31.5007 ms
+2025-01-20 08:40:37.045 +07:00 [DBG] UnLock successful.
+2025-01-20 08:40:37.513 +07:00 [DBG] Calling unlock ....
+2025-01-20 08:40:37.513 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 08:40:37.560 +07:00 [DBG] Total time: 46.8804 ms
+2025-01-20 08:40:37.560 +07:00 [DBG] UnLock successful.
+2025-01-20 08:40:37.935 +07:00 [DBG] Calling unlock ....
+2025-01-20 08:40:37.935 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 08:40:38.029 +07:00 [DBG] Total time: 94.2237 ms
+2025-01-20 08:40:38.029 +07:00 [DBG] UnLock successful.
+2025-01-20 08:40:38.607 +07:00 [DBG] Calling unlock ....
+2025-01-20 08:40:38.607 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 08:40:38.670 +07:00 [DBG] Total time: 63.1757 ms
+2025-01-20 08:40:38.670 +07:00 [DBG] UnLock successful.
+2025-01-20 08:40:39.060 +07:00 [DBG] Calling unlock ....
+2025-01-20 08:40:39.060 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 08:40:39.092 +07:00 [DBG] Total time: 31.9093 ms
+2025-01-20 08:40:39.092 +07:00 [DBG] UnLock successful.
+2025-01-20 08:40:39.419 +07:00 [DBG] Calling unlock ....
+2025-01-20 08:40:39.419 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 08:40:39.451 +07:00 [DBG] Total time: 31.7024 ms
+2025-01-20 08:40:39.451 +07:00 [DBG] UnLock successful.
+2025-01-20 08:40:40.638 +07:00 [DBG] Calling unlock ....
+2025-01-20 08:40:40.638 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 08:40:40.700 +07:00 [DBG] Total time: 62.521 ms
+2025-01-20 08:40:40.700 +07:00 [DBG] UnLock successful.
+2025-01-20 08:40:41.498 +07:00 [DBG] Calling unlock ....
+2025-01-20 08:40:41.498 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 08:40:41.545 +07:00 [DBG] Total time: 47.1862 ms
+2025-01-20 08:40:41.545 +07:00 [DBG] UnLock successful.
+2025-01-20 08:40:42.560 +07:00 [DBG] Calling unlock ....
+2025-01-20 08:40:42.560 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 08:40:42.685 +07:00 [DBG] Total time: 124.7086 ms
+2025-01-20 08:40:42.685 +07:00 [DBG] UnLock successful.
+2025-01-20 08:40:43.201 +07:00 [DBG] Calling unlock ....
+2025-01-20 08:40:43.201 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 08:40:43.357 +07:00 [DBG] Total time: 155.6852 ms
+2025-01-20 08:40:43.357 +07:00 [DBG] UnLock successful.
+2025-01-20 08:40:43.919 +07:00 [DBG] Calling unlock ....
+2025-01-20 08:40:43.919 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 08:40:43.966 +07:00 [DBG] Total time: 47.0684 ms
+2025-01-20 08:40:43.966 +07:00 [DBG] UnLock successful.
+2025-01-20 08:40:44.685 +07:00 [DBG] Calling unlock ....
+2025-01-20 08:40:44.685 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 08:40:44.732 +07:00 [DBG] Total time: 46.9792 ms
+2025-01-20 08:40:44.732 +07:00 [DBG] UnLock successful.
+2025-01-20 08:41:03.372 +07:00 [DBG] Calling unlock ....
+2025-01-20 08:41:03.372 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 08:41:03.420 +07:00 [DBG] Total time: 47.0817 ms
+2025-01-20 08:41:03.420 +07:00 [DBG] UnLock successful.
+2025-01-20 08:41:04.232 +07:00 [DBG] Calling unlock ....
+2025-01-20 08:41:04.232 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 08:41:04.326 +07:00 [DBG] Total time: 93.8821 ms
+2025-01-20 08:41:04.326 +07:00 [DBG] UnLock successful.
+2025-01-20 08:41:04.779 +07:00 [DBG] Calling unlock ....
+2025-01-20 08:41:04.779 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 08:41:04.826 +07:00 [DBG] Total time: 46.936 ms
+2025-01-20 08:41:04.826 +07:00 [DBG] UnLock successful.
+2025-01-20 08:41:05.669 +07:00 [DBG] Calling unlock ....
+2025-01-20 08:41:05.669 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 08:41:05.701 +07:00 [DBG] Total time: 31.2844 ms
+2025-01-20 08:41:05.701 +07:00 [DBG] UnLock successful.
+2025-01-20 08:41:49.732 +07:00 [DBG] Calling unlock ....
+2025-01-20 08:41:49.732 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 08:41:49.794 +07:00 [DBG] Total time: 62.1233 ms
+2025-01-20 08:41:49.794 +07:00 [DBG] UnLock successful.
+2025-01-20 08:41:50.169 +07:00 [DBG] Calling unlock ....
+2025-01-20 08:41:50.169 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 08:41:50.263 +07:00 [DBG] Total time: 93.7414 ms
+2025-01-20 08:41:50.263 +07:00 [DBG] UnLock successful.
+2025-01-20 08:41:50.778 +07:00 [DBG] Calling unlock ....
+2025-01-20 08:41:50.778 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 08:41:50.826 +07:00 [DBG] Total time: 47.56 ms
+2025-01-20 08:41:50.826 +07:00 [DBG] UnLock successful.
+2025-01-20 08:41:51.310 +07:00 [DBG] Calling unlock ....
+2025-01-20 08:41:51.310 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 08:41:51.326 +07:00 [DBG] Total time: 15.9261 ms
+2025-01-20 08:41:51.326 +07:00 [DBG] UnLock successful.
+2025-01-20 08:41:51.810 +07:00 [DBG] Calling unlock ....
+2025-01-20 08:41:51.810 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 08:41:51.873 +07:00 [DBG] Total time: 63.121 ms
+2025-01-20 08:41:51.873 +07:00 [DBG] UnLock successful.
+2025-01-20 08:41:52.372 +07:00 [DBG] Calling unlock ....
+2025-01-20 08:41:52.372 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 08:41:52.435 +07:00 [DBG] Total time: 62.6552 ms
+2025-01-20 08:41:52.435 +07:00 [DBG] UnLock successful.
+2025-01-20 08:41:52.904 +07:00 [DBG] Calling unlock ....
+2025-01-20 08:41:52.904 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 08:41:52.966 +07:00 [DBG] Total time: 62.3049 ms
+2025-01-20 08:41:52.966 +07:00 [DBG] UnLock successful.
+2025-01-20 10:34:16.400 +07:00 [DBG] Username: admin
+2025-01-20 10:34:34.962 +07:00 [INF] Server initialized and logged in successfully.
+2025-01-20 11:35:32.474 +07:00 [DBG] Username: admin
+2025-01-20 11:35:34.696 +07:00 [INF] Server initialized and logged in successfully.
+2025-01-20 11:36:34.458 +07:00 [DBG] Username: admin
+2025-01-20 11:36:35.631 +07:00 [INF] Server initialized and logged in successfully.
+2025-01-20 11:36:41.368 +07:00 [DBG] Calling unlock ....
+2025-01-20 11:36:41.368 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 11:36:41.477 +07:00 [DBG] Total time: 109.278 ms
+2025-01-20 11:36:41.477 +07:00 [DBG] UnLock successful.
+2025-01-20 11:36:43.446 +07:00 [DBG] Calling unlock ....
+2025-01-20 11:36:43.446 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 11:36:43.492 +07:00 [DBG] Total time: 46.7184 ms
+2025-01-20 11:36:43.492 +07:00 [DBG] UnLock successful.
+2025-01-20 11:36:46.274 +07:00 [DBG] Calling unlock ....
+2025-01-20 11:36:46.274 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 11:36:46.305 +07:00 [DBG] Total time: 31.3146 ms
+2025-01-20 11:36:46.305 +07:00 [DBG] UnLock successful.
+2025-01-20 11:39:24.956 +07:00 [DBG] Username: admin
+2025-01-20 11:39:38.992 +07:00 [INF] Server initialized and logged in successfully.
+2025-01-20 11:39:39.914 +07:00 [INF] API server started at http://192.168.1.50:4000/
+2025-01-20 11:39:59.162 +07:00 [DBG] Username: admin
+2025-01-20 11:40:10.250 +07:00 [INF] Server initialized and logged in successfully.
+2025-01-20 11:40:11.096 +07:00 [INF] API server started at http://192.168.1.50:4000/
+2025-01-20 11:46:33.216 +07:00 [DBG] Username: admin
+2025-01-20 11:46:51.931 +07:00 [INF] Server initialized and logged in successfully.
+2025-01-20 13:47:25.573 +07:00 [DBG] Username: admin
+2025-01-20 14:03:25.531 +07:00 [DBG] Username: admin
+2025-01-20 14:03:35.220 +07:00 [INF] Server initialized and logged in successfully.
+2025-01-20 14:03:36.187 +07:00 [INF] API server started successfully at http://192.168.1.50:4000/
+2025-01-20 14:03:41.609 +07:00 [DBG] Calling unlock ....
+2025-01-20 14:03:41.609 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 14:03:43.515 +07:00 [DBG] Total time: 1906.0983 ms
+2025-01-20 14:03:43.515 +07:00 [DBG] UnLock successful.
+2025-01-20 14:05:02.140 +07:00 [DBG] Calling unlock ....
+2025-01-20 14:05:02.140 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 14:05:45.624 +07:00 [DBG] Total time: 43484.567 ms
+2025-01-20 14:05:45.624 +07:00 [DBG] UnLock successful.
+2025-01-20 14:06:20.343 +07:00 [DBG] Calling unlock ....
+2025-01-20 14:06:20.343 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 14:07:09.405 +07:00 [DBG] Total time: 49061.9252 ms
+2025-01-20 14:07:09.405 +07:00 [DBG] UnLock successful.
+2025-01-20 14:07:16.687 +07:00 [DBG] Calling unlock ....
+2025-01-20 14:07:16.687 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 14:07:25.142 +07:00 [DBG] Total time: 8455.425 ms
+2025-01-20 14:07:25.142 +07:00 [DBG] UnLock successful.
+2025-01-20 14:07:37.405 +07:00 [DBG] Calling unlock ....
+2025-01-20 14:07:37.405 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 14:08:10.405 +07:00 [DBG] Total time: 32999.977 ms
+2025-01-20 14:08:10.405 +07:00 [DBG] UnLock successful.
+2025-01-20 14:08:26.014 +07:00 [DBG] Calling unlock ....
+2025-01-20 14:08:26.014 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 14:09:53.477 +07:00 [DBG] Total time: 87462.9121 ms
+2025-01-20 14:09:53.477 +07:00 [DBG] UnLock successful.
+2025-01-20 14:12:43.764 +07:00 [DBG] Username: admin
+2025-01-20 14:12:53.114 +07:00 [INF] Server initialized and logged in successfully.
+2025-01-20 14:12:53.895 +07:00 [INF] API server started successfully at http://192.168.1.50:4000/
+2025-01-20 14:13:28.552 +07:00 [DBG] Calling unlock ....
+2025-01-20 14:13:28.552 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 14:13:31.083 +07:00 [DBG] Total time: 2531.4139 ms
+2025-01-20 14:13:31.083 +07:00 [DBG] UnLock successful.
+2025-01-20 14:13:33.599 +07:00 [DBG] Calling unlock ....
+2025-01-20 14:13:33.614 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 14:13:35.318 +07:00 [DBG] Total time: 1718.8048 ms
+2025-01-20 14:13:35.318 +07:00 [DBG] UnLock successful.
+2025-01-20 14:13:37.334 +07:00 [DBG] Calling unlock ....
+2025-01-20 14:13:37.334 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 14:13:39.099 +07:00 [DBG] Total time: 1765.1117 ms
+2025-01-20 14:13:39.099 +07:00 [DBG] UnLock successful.
+2025-01-20 14:13:41.020 +07:00 [DBG] Calling unlock ....
+2025-01-20 14:13:41.020 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 14:13:42.536 +07:00 [DBG] Total time: 1515.7699 ms
+2025-01-20 14:13:42.536 +07:00 [DBG] UnLock successful.
+2025-01-20 14:13:56.739 +07:00 [DBG] Calling unlock ....
+2025-01-20 14:13:56.739 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 14:13:57.239 +07:00 [DBG] Total time: 499.9393 ms
+2025-01-20 14:13:57.239 +07:00 [DBG] UnLock successful.
+2025-01-20 14:13:58.740 +07:00 [DBG] Calling unlock ....
+2025-01-20 14:13:58.740 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 14:14:00.443 +07:00 [DBG] Total time: 1703.0743 ms
+2025-01-20 14:14:00.443 +07:00 [DBG] UnLock successful.
+2025-01-20 14:14:01.349 +07:00 [DBG] Calling unlock ....
+2025-01-20 14:14:01.349 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 14:14:02.099 +07:00 [DBG] Total time: 750.2032 ms
+2025-01-20 14:14:02.099 +07:00 [DBG] UnLock successful.
+2025-01-20 14:15:21.913 +07:00 [DBG] Calling unlock ....
+2025-01-20 14:15:21.913 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 14:15:21.975 +07:00 [DBG] Total time: 62.1264 ms
+2025-01-20 14:15:21.975 +07:00 [DBG] UnLock successful.
+2025-01-20 14:15:24.241 +07:00 [DBG] Calling unlock ....
+2025-01-20 14:15:24.241 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 14:15:24.272 +07:00 [DBG] Total time: 31.2459 ms
+2025-01-20 14:15:24.272 +07:00 [DBG] UnLock successful.
+2025-01-20 14:15:26.038 +07:00 [DBG] Calling unlock ....
+2025-01-20 14:15:26.038 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 14:15:26.085 +07:00 [DBG] Total time: 47.3716 ms
+2025-01-20 14:15:26.085 +07:00 [DBG] UnLock successful.
+2025-01-20 14:15:31.725 +07:00 [DBG] Calling unlock ....
+2025-01-20 14:15:31.725 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 14:15:31.772 +07:00 [DBG] Total time: 46.9187 ms
+2025-01-20 14:15:31.772 +07:00 [DBG] UnLock successful.
+2025-01-20 14:15:32.913 +07:00 [DBG] Calling unlock ....
+2025-01-20 14:15:32.913 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 14:15:32.944 +07:00 [DBG] Total time: 31.3173 ms
+2025-01-20 14:15:32.944 +07:00 [DBG] UnLock successful.
+2025-01-20 14:15:34.054 +07:00 [DBG] Calling unlock ....
+2025-01-20 14:15:34.054 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 14:15:34.100 +07:00 [DBG] Total time: 46.7067 ms
+2025-01-20 14:15:34.100 +07:00 [DBG] UnLock successful.
+2025-01-20 14:15:34.959 +07:00 [DBG] Calling unlock ....
+2025-01-20 14:15:34.959 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 14:15:34.991 +07:00 [DBG] Total time: 31.549 ms
+2025-01-20 14:15:34.991 +07:00 [DBG] UnLock successful.
+2025-01-20 14:23:05.459 +07:00 [DBG] Calling unlock ....
+2025-01-20 14:23:05.459 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 14:23:05.521 +07:00 [DBG] Total time: 62.027 ms
+2025-01-20 14:23:05.521 +07:00 [DBG] UnLock successful.
+2025-01-20 14:23:06.646 +07:00 [DBG] Calling unlock ....
+2025-01-20 14:23:06.646 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 14:23:06.677 +07:00 [DBG] Total time: 31.0877 ms
+2025-01-20 14:23:06.677 +07:00 [DBG] UnLock successful.
+2025-01-20 14:23:07.677 +07:00 [DBG] Calling unlock ....
+2025-01-20 14:23:07.677 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 14:23:07.724 +07:00 [DBG] Total time: 46.7585 ms
+2025-01-20 14:23:07.724 +07:00 [DBG] UnLock successful.
+2025-01-20 14:23:08.614 +07:00 [DBG] Calling unlock ....
+2025-01-20 14:23:08.614 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 14:23:08.646 +07:00 [DBG] Total time: 31.6779 ms
+2025-01-20 14:23:08.646 +07:00 [DBG] UnLock successful.
+2025-01-20 14:23:09.521 +07:00 [DBG] Calling unlock ....
+2025-01-20 14:23:09.521 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 14:23:09.552 +07:00 [DBG] Total time: 31.5621 ms
+2025-01-20 14:23:09.552 +07:00 [DBG] UnLock successful.
+2025-01-20 14:25:11.161 +07:00 [DBG] Calling unlock ....
+2025-01-20 14:25:11.161 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 14:25:11.239 +07:00 [DBG] Total time: 78.0633 ms
+2025-01-20 14:25:11.239 +07:00 [DBG] UnLock successful.
+2025-01-20 14:25:12.271 +07:00 [DBG] Calling unlock ....
+2025-01-20 14:25:12.271 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 14:25:12.318 +07:00 [DBG] Total time: 47.1561 ms
+2025-01-20 14:25:12.318 +07:00 [DBG] UnLock successful.
+2025-01-20 14:25:13.193 +07:00 [DBG] Calling unlock ....
+2025-01-20 14:25:13.193 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 14:25:13.224 +07:00 [DBG] Total time: 30.9521 ms
+2025-01-20 14:25:13.224 +07:00 [DBG] UnLock successful.
+2025-01-20 14:25:13.927 +07:00 [DBG] Calling unlock ....
+2025-01-20 14:25:13.927 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 14:25:13.958 +07:00 [DBG] Total time: 31.281 ms
+2025-01-20 14:25:13.958 +07:00 [DBG] UnLock successful.
+2025-01-20 14:32:33.421 +07:00 [DBG] Calling unlock ....
+2025-01-20 14:32:33.421 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 14:32:36.468 +07:00 [DBG] Total time: 3046.9202 ms
+2025-01-20 14:32:36.468 +07:00 [DBG] UnLock successful.
+2025-01-20 14:32:57.999 +07:00 [DBG] Calling unlock ....
+2025-01-20 14:32:57.999 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 14:32:58.171 +07:00 [DBG] Total time: 171.9715 ms
+2025-01-20 14:32:58.171 +07:00 [DBG] UnLock successful.
+2025-01-20 14:32:58.937 +07:00 [DBG] Calling unlock ....
+2025-01-20 14:32:58.952 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 14:32:59.234 +07:00 [DBG] Total time: 296.7737 ms
+2025-01-20 14:32:59.234 +07:00 [DBG] UnLock successful.
+2025-01-20 14:33:00.155 +07:00 [DBG] Calling unlock ....
+2025-01-20 14:33:00.155 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 14:33:00.406 +07:00 [DBG] Total time: 250.3152 ms
+2025-01-20 14:33:00.406 +07:00 [DBG] UnLock successful.
+2025-01-20 14:33:01.234 +07:00 [DBG] Calling unlock ....
+2025-01-20 14:33:01.234 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 14:33:01.468 +07:00 [DBG] Total time: 234.5164 ms
+2025-01-20 14:33:01.468 +07:00 [DBG] UnLock successful.
+2025-01-20 14:33:02.249 +07:00 [DBG] Calling unlock ....
+2025-01-20 14:33:02.249 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 14:33:02.452 +07:00 [DBG] Total time: 203.0059 ms
+2025-01-20 14:33:02.452 +07:00 [DBG] UnLock successful.
+2025-01-20 14:33:03.218 +07:00 [DBG] Calling unlock ....
+2025-01-20 14:33:03.218 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 14:33:03.546 +07:00 [DBG] Total time: 328.1633 ms
+2025-01-20 14:33:03.546 +07:00 [DBG] UnLock successful.
+2025-01-20 14:33:04.093 +07:00 [DBG] Calling unlock ....
+2025-01-20 14:33:04.093 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 14:33:04.765 +07:00 [DBG] Total time: 671.5795 ms
+2025-01-20 14:33:04.765 +07:00 [DBG] UnLock successful.
+2025-01-20 14:33:05.359 +07:00 [DBG] Calling unlock ....
+2025-01-20 14:33:05.359 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 14:33:05.640 +07:00 [DBG] Total time: 281.2331 ms
+2025-01-20 14:33:05.640 +07:00 [DBG] UnLock successful.
+2025-01-20 14:33:06.406 +07:00 [DBG] Calling unlock ....
+2025-01-20 14:33:06.406 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 14:33:06.702 +07:00 [DBG] Total time: 296.4262 ms
+2025-01-20 14:33:06.702 +07:00 [DBG] UnLock successful.
+2025-01-20 14:33:08.890 +07:00 [DBG] Calling unlock ....
+2025-01-20 14:33:08.890 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 14:33:09.077 +07:00 [DBG] Total time: 187.3993 ms
+2025-01-20 14:33:09.077 +07:00 [DBG] UnLock successful.
+2025-01-20 14:33:09.827 +07:00 [DBG] Calling unlock ....
+2025-01-20 14:33:09.827 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 14:33:10.124 +07:00 [DBG] Total time: 296.4402 ms
+2025-01-20 14:33:10.124 +07:00 [DBG] UnLock successful.
+2025-01-20 14:33:51.999 +07:00 [DBG] Calling unlock ....
+2025-01-20 14:33:52.015 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 14:33:52.218 +07:00 [DBG] Total time: 219.3973 ms
+2025-01-20 14:33:52.218 +07:00 [DBG] UnLock successful.
+2025-01-20 14:33:52.983 +07:00 [DBG] Calling unlock ....
+2025-01-20 14:33:52.983 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 14:33:53.186 +07:00 [DBG] Total time: 203.1409 ms
+2025-01-20 14:33:53.186 +07:00 [DBG] UnLock successful.
+2025-01-20 14:33:53.999 +07:00 [DBG] Calling unlock ....
+2025-01-20 14:33:53.999 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 14:33:54.202 +07:00 [DBG] Total time: 203.154 ms
+2025-01-20 14:33:54.202 +07:00 [DBG] UnLock successful.
+2025-01-20 14:33:54.936 +07:00 [DBG] Calling unlock ....
+2025-01-20 14:33:54.936 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 14:33:55.155 +07:00 [DBG] Total time: 219.0592 ms
+2025-01-20 14:33:55.155 +07:00 [DBG] UnLock successful.
+2025-01-20 14:33:55.874 +07:00 [DBG] Calling unlock ....
+2025-01-20 14:33:55.874 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 14:33:56.062 +07:00 [DBG] Total time: 187.3637 ms
+2025-01-20 14:33:56.062 +07:00 [DBG] UnLock successful.
+2025-01-20 14:33:56.812 +07:00 [DBG] Calling unlock ....
+2025-01-20 14:33:56.812 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 14:33:57.031 +07:00 [DBG] Total time: 219.0997 ms
+2025-01-20 14:33:57.031 +07:00 [DBG] UnLock successful.
+2025-01-20 15:13:16.627 +07:00 [DBG] Calling unlock ....
+2025-01-20 15:13:16.627 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 15:13:16.737 +07:00 [DBG] Total time: 109.5703 ms
+2025-01-20 15:13:16.737 +07:00 [DBG] UnLock successful.
+2025-01-20 15:13:17.955 +07:00 [DBG] Calling unlock ....
+2025-01-20 15:13:17.955 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 15:13:18.002 +07:00 [DBG] Total time: 46.7463 ms
+2025-01-20 15:13:18.002 +07:00 [DBG] UnLock successful.
+2025-01-20 15:14:06.892 +07:00 [DBG] Calling unlock ....
+2025-01-20 15:14:06.892 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 15:14:07.408 +07:00 [DBG] Total time: 515.7184 ms
+2025-01-20 15:14:07.408 +07:00 [DBG] UnLock successful.
+2025-01-20 15:14:08.424 +07:00 [DBG] Calling unlock ....
+2025-01-20 15:14:08.424 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 15:14:08.487 +07:00 [DBG] Total time: 62.9378 ms
+2025-01-20 15:14:08.487 +07:00 [DBG] UnLock successful.
+2025-01-20 15:14:09.689 +07:00 [DBG] Calling unlock ....
+2025-01-20 15:14:09.689 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 15:14:09.721 +07:00 [DBG] Total time: 31.6834 ms
+2025-01-20 15:14:09.721 +07:00 [DBG] UnLock successful.
+2025-01-20 15:14:10.564 +07:00 [DBG] Calling unlock ....
+2025-01-20 15:14:10.564 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 15:14:10.596 +07:00 [DBG] Total time: 31.5389 ms
+2025-01-20 15:14:10.596 +07:00 [DBG] UnLock successful.
+2025-01-20 15:14:11.362 +07:00 [DBG] Calling unlock ....
+2025-01-20 15:14:11.362 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 15:14:11.408 +07:00 [DBG] Total time: 46.5004 ms
+2025-01-20 15:14:11.408 +07:00 [DBG] UnLock successful.
+2025-01-20 15:14:12.221 +07:00 [DBG] Calling unlock ....
+2025-01-20 15:14:12.221 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 15:14:12.267 +07:00 [DBG] Total time: 46.72 ms
+2025-01-20 15:14:12.267 +07:00 [DBG] UnLock successful.
+2025-01-20 15:14:13.017 +07:00 [DBG] Calling unlock ....
+2025-01-20 15:14:13.017 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 15:14:13.049 +07:00 [DBG] Total time: 31.267 ms
+2025-01-20 15:14:13.049 +07:00 [DBG] UnLock successful.
+2025-01-20 15:14:13.799 +07:00 [DBG] Calling unlock ....
+2025-01-20 15:14:13.799 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 15:14:13.830 +07:00 [DBG] Total time: 31.2516 ms
+2025-01-20 15:14:13.830 +07:00 [DBG] UnLock successful.
+2025-01-20 15:14:14.330 +07:00 [DBG] Calling unlock ....
+2025-01-20 15:14:14.330 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 15:14:14.361 +07:00 [DBG] Total time: 31.1285 ms
+2025-01-20 15:14:14.361 +07:00 [DBG] UnLock successful.
+2025-01-20 15:15:08.167 +07:00 [DBG] Calling unlock ....
+2025-01-20 15:15:08.173 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 15:15:08.808 +07:00 [DBG] Total time: 640.5393 ms
+2025-01-20 15:15:08.808 +07:00 [DBG] UnLock successful.
+2025-01-20 15:15:10.111 +07:00 [DBG] Calling unlock ....
+2025-01-20 15:15:10.111 +07:00 [DBG] ---Unlock with HID: 13
+2025-01-20 15:15:12.609 +07:00 [DBG] Total time: 2497.8502 ms
+2025-01-20 15:15:12.609 +07:00 [DBG] UnLock successful.

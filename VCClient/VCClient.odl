@@ -1,0 +1,63 @@
+// VCClient.odl : type library source for VCClient.exe
+
+// This file will be processed by the MIDL compiler to produce the
+// type library (VCClient.tlb).
+//import "\\view\E198458_local_view\NCI\Source\WINPAKLite\accw\ProRelease\accw.tlb" raw_interfaces_only, raw_native_types, no_namespace, named_guids 
+
+[ uuid(DE9619FD-75CD-4340-99CB-560C72CC23FC), version(1.0) ]
+library VCClient
+{
+	importlib("stdole32.tlb");
+	importlib("stdole2.tlb");
+
+
+	//  Primary dispatch interface for CVCClientDoc
+	
+	[ uuid(A133626C-47D9-4EC8-8185-C7809AC3B6CF) ]
+	dispinterface IVCClient
+	{
+		properties:
+			// NOTE - ClassWizard will maintain property information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_PROP(CVCClientDlgAutoProxy)
+			//}}AFX_ODL_PROP
+			
+		methods:
+			// NOTE - ClassWizard will maintain method information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_METHOD(CVCClientDlgAutoProxy)
+			//}}AFX_ODL_METHOD
+
+	};
+	
+	[
+		object,
+		uuid(AEC6AEE8-331B-4234-8AF8-59E20B4C5224),
+		dual,
+		helpstring("IClientClass Interface"),
+		pointer_default(unique)
+	]
+	interface IClientClass : IDispatch
+	{
+	};
+
+	//  Class information for CVCClientDoc
+	
+	[ uuid(7DED7EB1-4D40-41CF-99BE-A1BA59B47E7A) ]
+	coclass VCClient
+	{
+		[default] dispinterface IVCClient;
+	};
+
+	//{{AFX_APPEND_ODL}}
+	//}}AFX_APPEND_ODL}}
+	
+	[
+		uuid(BF1B54D8-74C8-4D74-8787-2ECC76706A64),
+		helpstring("ClientClass Class")
+	]
+	coclass ClientClass
+	{
+		[default] interface IClientClass;
+	};
+};

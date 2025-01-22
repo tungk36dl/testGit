@@ -1,0 +1,21 @@
+HKCR
+{
+	VCClient.ClientClass.1 = s 'ClientClass Class'
+	{
+		CLSID = s '{BF1B54D8-74C8-4D74-8787-2ECC76706A64}'
+	}
+	VCClient.ClientClass = s 'ClientClass Class'
+	{
+		CLSID = s '{BF1B54D8-74C8-4D74-8787-2ECC76706A64}'
+	}
+	NoRemove CLSID
+	{
+		ForceRemove {BF1B54D8-74C8-4D74-8787-2ECC76706A64} = s 'ClientClass Class'
+		{
+			ProgID = s 'VCClient.ClientClass.1'
+			VersionIndependentProgID = s 'VCClient.ClientClass'
+			val AppID = s '{67FFF6C8-7356-4494-A46F-F3265A55A549}'
+			LocalServer32 = s '%Module%'
+		}
+	}
+}

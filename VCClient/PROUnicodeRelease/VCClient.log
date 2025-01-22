@@ -1,0 +1,41 @@
+﻿  Processing .\VCClient.odl
+  VCClient.odl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\oaidl.idl
+  oaidl.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\objidl.idl
+  objidl.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\unknwn.idl
+  unknwn.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\wtypes.idl
+  wtypes.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\wtypesbase.idl
+  wtypesbase.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\basetsd.h
+  basetsd.h
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\guiddef.h
+  guiddef.h
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\oaidl.acf
+  oaidl.acf
+  StdAfx.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  ClientClass.cpp
+  DlgADVControl.cpp
+  DlgPointControl.cpp
+  DlgProxy.cpp
+  DlgReaderTimeZone.cpp
+  VCClient.cpp
+  VCClientDlg.cpp
+E:\BambooSVN\WINL-WP492-JOB1\Source\CommAPITestClients\VCClient\VCClientDlg.cpp(772,55): warning C4996: '_itow': This function or variable may be unsafe. Consider using _itow_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\BambooSVN\WINL-WP492-JOB1\Source\CommAPITestClients\VCClient\VCClientDlg.cpp(782,55): warning C4996: '_itow': This function or variable may be unsafe. Consider using _itow_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\BambooSVN\WINL-WP492-JOB1\Source\CommAPITestClients\VCClient\VCClientDlg.cpp(790,55): warning C4996: '_itow': This function or variable may be unsafe. Consider using _itow_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\BambooSVN\WINL-WP492-JOB1\Source\CommAPITestClients\VCClient\VCClientDlg.cpp(799,55): warning C4996: '_itow': This function or variable may be unsafe. Consider using _itow_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\BambooSVN\WINL-WP492-JOB1\Source\CommAPITestClients\VCClient\VCClientDlg.cpp(808,55): warning C4996: '_itow': This function or variable may be unsafe. Consider using _itow_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\BambooSVN\WINL-WP492-JOB1\Source\CommAPITestClients\VCClient\VCClientDlg.cpp(818,55): warning C4996: '_itow': This function or variable may be unsafe. Consider using _itow_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\BambooSVN\WINL-WP492-JOB1\Source\CommAPITestClients\VCClient\VCClientDlg.cpp(828,55): warning C4996: '_itow': This function or variable may be unsafe. Consider using _itow_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\BambooSVN\WINL-WP492-JOB1\Source\CommAPITestClients\VCClient\VCClientDlg.cpp(837,55): warning C4996: '_itow': This function or variable may be unsafe. Consider using _itow_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\BambooSVN\WINL-WP492-JOB1\Source\CommAPITestClients\VCClient\VCClientDlg.cpp(846,55): warning C4996: '_itow': This function or variable may be unsafe. Consider using _itow_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\BambooSVN\WINL-WP492-JOB1\Source\CommAPITestClients\VCClient\VCClientDlg.cpp(855,55): warning C4996: '_itow': This function or variable may be unsafe. Consider using _itow_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\BambooSVN\WINL-WP492-JOB1\Source\CommAPITestClients\VCClient\VCClientDlg.cpp(864,55): warning C4996: '_itow': This function or variable may be unsafe. Consider using _itow_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  WPCommLoginDlg.cpp
+  Generating Code...
+  VCClient.vcxproj -> E:\BambooSVN\WINL-WP492-JOB1\Source\CommAPITestClients\VCClient\PROUnicodeRelease\VCClient.exe

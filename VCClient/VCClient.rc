@@ -1,0 +1,558 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// English (U.S.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)\r\n"
+    "#ifdef _WIN32\r\n"
+    "LANGUAGE 9, 1\r\n"
+    "#pragma code_page(1252)\r\n"
+    "#endif //_WIN32\r\n"
+    "#include ""res\\VCClient.rc2""  // non-Microsoft Visual C++ edited resources\r\n"
+    "#include ""afxres.rc""         // Standard components\r\n"
+    "#endif\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDR_MAINFRAME           ICON    DISCARDABLE     "res\\VCClient.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_ABOUTBOX DIALOG DISCARDABLE  0, 0, 282, 115
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "About VCClient"
+FONT 8, "MS Sans Serif"
+BEGIN
+    ICON            IDR_MAINFRAME,IDC_STATIC,11,17,20,20
+    DEFPUSHBUTTON   "OK",IDOK,225,7,50,14,WS_GROUP
+    LTEXT           "Client for Communication Server API 1092.5",IDC_STATIC,
+                    41,16,164,18
+    LTEXT           "Copyright (C) Honeywell Access Systems, 2022",
+                    IDC_STATIC,39,62,186,25
+END
+
+IDD_VCCLIENT_DIALOG DIALOGEX 0, 0, 624, 443
+STYLE DS_MODALFRAME | WS_MINIMIZEBOX | WS_POPUP | WS_VISIBLE | WS_CAPTION | 
+    WS_SYSMENU
+EXSTYLE WS_EX_APPWINDOW
+CAPTION "VCClient of Communication Server API"
+MENU IDR_MENU_COMM_CLIENT
+FONT 8, "MS Sans Serif", 0, 0, 0x1
+BEGIN
+    GROUPBOX        "Alarms and Server Connection Status",IDC_STATIC,13,7,
+                    397,214
+    GROUPBOX        "Events",IDC_STATIC,13,221,598,87
+    CONTROL         "List3",IDC_LST_EVENT,"SysListView32",LVS_REPORT | 
+                    WS_BORDER | WS_TABSTOP,19,232,585,71
+    PUSHBUTTON      "Ack",IDC_BtnAck,440,186,56,13
+    PUSHBUTTON      "Details",IDC_BTNDETAILS,440,202,56,13
+    PUSHBUTTON      "Clear",IDC_BtnClear,511,186,56,13
+    GROUPBOX        "Status",IDC_STATIC,13,329,604,107
+    CONTROL         "List3",IDC_LST_STATUS,"SysListView32",LVS_REPORT | 
+                    WS_BORDER | WS_TABSTOP,22,339,587,96
+    LTEXT           "HID :",IDC_STATIC,440,130,18,8
+    LTEXT           "Point ID :",IDC_STATIC,427,145,30,8
+    EDITTEXT        IDC_TXT_ALRM_HID,461,127,56,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_TXT_ALRM_POINTID,461,143,56,12,ES_AUTOHSCROLL
+    LISTBOX         IDC_LIST_ALARM,20,17,382,198,LBS_NOINTEGRALHEIGHT | 
+                    LBS_DISABLENOSCROLL | WS_VSCROLL | WS_HSCROLL | 
+                    WS_TABSTOP
+    PUSHBUTTON      "Get All Device Status",IDC_BTN_STATUS,16,312,72,14
+    LISTBOX         IDC_LST_DETAILS,423,31,180,69,LBS_NOINTEGRALHEIGHT | 
+                    LBS_DISABLENOSCROLL | WS_VSCROLL | WS_HSCROLL | 
+                    WS_TABSTOP
+    GROUPBOX        "Alarm Details",IDC_STATIC,418,19,191,202
+    LTEXT           "Enter the HID and PointID to Acknowledge/Get Details/ Clear an alarm",
+                    IDC_STATIC,427,106,133,19
+    LTEXT           "Note : ",IDC_STATIC,436,160,22,8
+    EDITTEXT        IDC_EDIT_OP_NOTE,461,159,120,23,ES_MULTILINE | 
+                    ES_AUTOHSCROLL
+    PUSHBUTTON      "Add Note",IDC_BTN_ADD_NOTE,511,202,56,13
+    LTEXT           "Operator : ",IDC_STATIC,431,6,34,8
+    EDITTEXT        IDC_STATIC_OPERATOR,468,5,112,12,ES_AUTOHSCROLL | 
+                    WS_DISABLED
+END
+
+IDD_LOGIN_DIALOG DIALOG DISCARDABLE  0, 0, 208, 115
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Login"
+FONT 8, "MS Sans Serif"
+BEGIN
+    EDITTEXT        IDC_UNAME,67,23,127,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_PWD,67,40,127,12,ES_PASSWORD | ES_AUTOHSCROLL
+    DEFPUSHBUTTON   "Login",ID_LOGIN,46,79,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,107,79,50,14
+    LTEXT           "Macine Name :",IDC_STATIC,13,6,47,11,NOT WS_VISIBLE
+    LTEXT           "User Name",IDC_STATIC,13,24,47,11
+    LTEXT           "Password",IDC_STATIC,13,42,47,11
+    EDITTEXT        IDC_MAC_NAME,67,6,127,12,ES_AUTOHSCROLL | NOT WS_VISIBLE | 
+                    WS_DISABLED
+    LTEXT           "Domain Name",IDC_STATIC,13,59,47,11
+    EDITTEXT        IDC_DOMAINNAME,67,57,127,12, ES_AUTOHSCROLL
+
+   /* COMBOBOX        IDC_CMBDOMAIN,67,57,127,30,CBS_DROPDOWNLIST | CBS_SORT | 
+                    WS_VSCROLL | WS_TABSTOP */
+END
+
+IDD_CTP_ENTRANCE_TIMEZONE DIALOG DISCARDABLE  0, 0, 367, 316
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Configure Door Modes - NetAXS Reader"
+FONT 8, "MS Sans Serif"
+BEGIN
+    GROUPBOX        "Door / Reader Mode Schedule",IDC_CTP_READER_MODE,7,33,
+                    357,202
+    LTEXT           "Disable Reader / Door - No Entry,No Exit allowed during this time",
+                    IDC_CTP_READER_DISABLE,13,45,211,8
+    LTEXT           "Lockdown Reader / Door - No Entry,Exit allowed during this time",
+                    IDC_CTP__READER_LOCK,13,76,205,8
+    LTEXT           "Card and PIN - Required during this time",
+                    IDC_CTP_READER_CARD_AND_PIN,14,108,177,8
+    LTEXT           "Standard",IDC_CTP_READER_STANDARD,210,91,35,8
+    LTEXT           "Supervisor",IDC_CTP_READER_SUPERVISOR,253,91,35,8
+    LTEXT           "Escort",IDC_CTP_READER_ESCORT,303,91,35,8
+    CONTROL         "",IDC_CTP_READER_STAN_CARD_AND_PIN,"Button",
+                    BS_AUTORADIOBUTTON | WS_GROUP | WS_TABSTOP,215,120,31,10
+    CONTROL         "",IDC_CTP_READER_SUPERVISOR_CARD_AND_PIN,"Button",
+                    BS_AUTORADIOBUTTON | WS_TABSTOP,260,120,31,10
+    CONTROL         "",IDC_CTP_READER_ESCORT_CARD_AND_PIN,"Button",
+                    BS_AUTORADIOBUTTON | WS_TABSTOP,308,120,31,10
+    LTEXT           "Card or PIN - Required during this time",
+                    IDC_CTP_READER_CARD_OR_PIN,13,138,178,8
+    CONTROL         "",IDC_CTP_READER_STAN_CARD_OR_PIN,"Button",
+                    BS_AUTORADIOBUTTON | WS_GROUP | WS_TABSTOP,215,152,31,10
+    CONTROL         "",IDC_CTP_READER_SUPERVISOR_CARD_OR_PIN,"Button",
+                    BS_AUTORADIOBUTTON | WS_TABSTOP,260,152,31,10
+    CONTROL         "",IDC_CTP_READER_ESCORT_CARD_OR_PIN,"Button",
+                    BS_AUTORADIOBUTTON | WS_TABSTOP,308,152,31,10
+    LTEXT           "PIN only - Required during this time",
+                    IDC_CTP_READER_PIN_ONLY,13,168,180,8
+    CONTROL         "",IDC_CTP_READER_STAN_PIN_ONLY,"Button",
+                    BS_AUTORADIOBUTTON | WS_GROUP | WS_TABSTOP,216,181,31,10
+    CONTROL         "",IDC_CTP_READER_SUPERVISOR_PIN_ONLY,"Button",
+                    BS_AUTORADIOBUTTON | WS_TABSTOP,260,181,31,10
+    CONTROL         "",IDC_CTP_READER_ESCORT_PIN_ONLY,"Button",
+                    BS_AUTORADIOBUTTON | WS_TABSTOP,308,181,31,10
+    LTEXT           "Card only - Card only allowed during this time",
+                    IDC_CTP_READER_CARD_ONLY,13,198,209,8
+    CONTROL         "",IDC_CTP_READER_STAN_CARD_ONLY,"Button",
+                    BS_AUTORADIOBUTTON | WS_GROUP | WS_TABSTOP,216,209,31,10
+    CONTROL         "",IDC_CTP_READER_SUPERVISOR_CARD_ONLY,"Button",
+                    BS_AUTORADIOBUTTON | WS_TABSTOP,260,209,31,10
+    CONTROL         "",IDC_CTP_READER_ESCORT_CARD_ONLY,"Button",
+                    BS_AUTORADIOBUTTON | WS_TABSTOP,308,208,31,10
+    DEFPUSHBUTTON   "OK",IDOK,119,292,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,178,292,50,14
+    EDITTEXT        IDC_CTP_PANEL_HID,64,12,115,12,ES_AUTOHSCROLL
+    LTEXT           "HID",IDC_STATIC,10,15,47,9
+    EDITTEXT        IDC_CTP_PANEL_COMBO_AD_READER_DISABLE_DOOR,14,57,168,14,
+                    ES_AUTOHSCROLL
+    EDITTEXT        IDC_CTP_PANEL_COMBO_AD_READER_LOCK,14,87,168,14,
+                    ES_AUTOHSCROLL
+    EDITTEXT        IDC_CTP_PANEL_COMBO_AD_READER_CARD_AND_PIN,14,117,168,14,
+                    ES_AUTOHSCROLL
+    EDITTEXT        IDC_CTP_PANEL_COMBO_AD_READER_CARD_OR_PIN,14,147,168,14,
+                    ES_AUTOHSCROLL
+    EDITTEXT        IDC_CTP_PANEL_COMBO_AD_READER_PIN_ONLY,14,177,168,14,
+                    ES_AUTOHSCROLL
+    EDITTEXT        IDC_CTP_PANEL_COMBO_AD_READER_CARD_ONLY,14,207,168,14,
+                    ES_AUTOHSCROLL
+    LTEXT           "Note: On SetNetAXSDoorModeByHID() on the NetAXS 123 Reader B, the UI will accept both the TZ and Card Mode settings but the card modes are discarded on the flow",
+                    IDC_STATIC,7,241,357,17,SS_NOTIFY | NOT WS_GROUP
+    LTEXT           "On GetNetAXSDoorModeByHID() on the NetAXS 123 Reader B, the TZ setting returned is of Reader B and the Card Modes are of the corresponding Reader A",
+                    IDC_STATIC,7,263,357,17,SS_NOTIFY
+END
+
+IDD_POINT_CONTROL_DIALOG DIALOG DISCARDABLE  0, 0, 465, 311
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Panel"
+FONT 8, "MS Sans Serif"
+BEGIN
+    EDITTEXT        IDC_EDIT_PANEL_HID,231,11,78,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_HID_TYPE,113,47,44,12,ES_AUTOHSCROLL
+    CONTROL         "N1000 II/III/IV/NetAXS Gatweway/Downstream/NS2/PRO3000 Master/Slave/FIN4000/MPA-2",
+                    IDC_RADIO_NS_PANELS,"Button",BS_AUTORADIOBUTTON | 
+                    BS_MULTILINE | WS_GROUP,32,64,209,34
+    CONTROL         "PW5000/PW5000 Dial Up/PRO2200",IDC_RADIO_P_SERIES,
+                    "Button",BS_AUTORADIOBUTTON,32,98,135,10
+    CONTROL         "Panel Configuration",IDC_CHK_BASIC_CONFIG__WINPAK,
+                    "Button",BS_AUTOCHECKBOX | WS_TABSTOP,18,118,77,10
+    CONTROL         "Time and Date",IDC_CHK_SCP_TIME__WINPAK,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,18,130,77,10
+    CONTROL         "Cards /             Users && Fingerprints",
+                    IDC_CHK_CARD__WINPAK,"Button",BS_AUTOCHECKBOX | 
+                    BS_MULTILINE | WS_TABSTOP,18,142,80,17
+    CONTROL         "Command Files",IDC_CHK_CMD_FILES__WINPAK,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,17,162,63,10
+    CONTROL         "Timezones",IDC_CHK_TIMEZONE__WINPAK,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,17,174,77,10
+    CONTROL         "Holidays",IDC_CHK_HOLIDAY__WINPAK,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,17,186,77,10
+    CONTROL         "Input Points",IDC_CHK_INPUTS__WINPAK,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,17,198,77,10
+    CONTROL         "Output Points",IDC_CHK_OUTPUTS__WINPAK,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,17,210,77,10
+    CONTROL         "Groups",IDC_CHK_GROUPS__WINPAK,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,17,222,77,10
+    CONTROL         "IC Configuration",IDC_CHK_SCP_CONFIG__WINPAK,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,133,117,66,10
+    CONTROL         "Input Scan Conversion Tables",
+                    IDC_CHK_INP_SCAN_CNV__WINPAK,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,133,130,111,10
+    CONTROL         "Card Formats",IDC_CHK_CARD_FMT__WINPAK,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,133,143,57,10
+    CONTROL         "SIO Boards",IDC_CHK_SIO__WINPAK,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,133,156,52,10
+    CONTROL         "Access levels",IDC_CHK_ACCESS_LEVEL__WINPAK,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,133,169,59,10
+    CONTROL         "Procedures/Actions",IDC_CHK_PROC_ACTION__WINPAK,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,133,182,79,10
+    CONTROL         "Triggers",IDC_CHK_TRIGGER__WINPAK,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,133,195,41,10
+    CONTROL         "Input Groups",IDC_CHK_MP_GROUP__WINPAK,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,133,208,77,10
+    CONTROL         "Reader Led/Buzzer funct specs",
+                    IDC_CHK_READER_LED__WINPAK,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,133,221,117,10
+    CONTROL         "Access Control Areas",IDC_CHK_ACCESS_AREA__WINPAK,
+                    "Button",BS_AUTOCHECKBOX | WS_TABSTOP,133,234,83,10
+    CONTROL         "Timezone Refresh",IDC_CHK_TZREFRESH__WINPAK,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,133,247,73,10
+    CONTROL         "Encryption Options",IDC_CHK_ENCRYPT__WINPAK,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,133,260,75,10
+    PUSHBUTTON      "&Select All",IDC_BTN_SELECTALL__WINPAK,20,276,60,14
+    PUSHBUTTON      "Initialize",IDC_BTN_INIT_START,83,276,64,14
+    PUSHBUTTON      "Cancel Initialization",IDC_BTN_INIT_END,151,276,79,14
+    EDITTEXT        IDC_EDIT_BUFFER_MODE,329,49,90,13,ES_AUTOHSCROLL
+    PUSHBUTTON      "Buffer",IDC_BTN_BUFFER,290,73,53,13
+    PUSHBUTTON      "Unbuffer",IDC_BTN_UNBUFFER,350,73,53,13
+    EDITTEXT        IDC_EDIT_PANEL_TYPE,353,110,40,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_DOOR_HID,353,127,40,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_DOOR_POINTID,353,144,40,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_TZID,353,161,40,14,ES_AUTOHSCROLL
+    PUSHBUTTON      "Execute",IDC_BTN_EXECUTE,331,184,50,14
+    GROUPBOX        "Panel Initialization",IDC_STATIC_PANEL_INIT,7,33,250,
+                    267
+    LTEXT           "Panel HID",IDC_STATIC,192,14,34,8
+    LTEXT           "Soft Mode = 0 : Hard Mode =1 :",IDC_STATIC,271,48,55,21
+    GROUPBOX        "Buffer / Unbuffer",IDC_STATIC,264,30,193,61
+    LTEXT           "Device Type : ",IDC_STATIC,56,49,54,8
+    LTEXT           "DeviceType(Panel) :",IDC_STATIC,281,113,66,8
+    LTEXT           "Door/Reader HID :",IDC_STATIC,285,130,62,8
+    LTEXT           "Door/Reader PointID : ",IDC_STATIC,273,147,74,8
+    LTEXT           "Timezone ID :",IDC_STATIC,302,164,45,8
+    GROUPBOX        "Door Schedule",IDC_STATIC,265,100,192,105
+END
+
+IDD_ADV_CONTROL_DLG DIALOG DISCARDABLE  0, 0, 403, 270
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Inputs, Outputs, Readers & Groups"
+FONT 8, "MS Sans Serif"
+BEGIN
+    GROUPBOX        "HID Commands",IDC_STATIC,15,32,178,91
+    LTEXT           "Enter the HID :",IDC_STATIC,81,15,52,9
+    EDITTEXT        IDC_EDIT_HID,143,12,93,12,ES_AUTOHSCROLL
+    PUSHBUTTON      "Lock",IDC_BTN_LOCK,25,47,75,14
+    PUSHBUTTON      "Pulse",IDC_BTN_PULSE,25,104,75,14
+    PUSHBUTTON      "Unlock",IDC_BTN_UNLOCK,110,47,75,14
+    PUSHBUTTON      "Unshunt",IDC_BTN_UNSHUNT,110,66,75,14
+    PUSHBUTTON      "Shunt",IDC_BTN_SHUNT,25,66,75,14
+    PUSHBUTTON      "Restore TimeZone",IDC_BTN_TZ,109,104,75,14
+    PUSHBUTTON      "Energize",IDC_BTN_ENERGIZE,25,85,75,14
+    PUSHBUTTON      "De-Energize",IDC_BTN_DEENERGIZE,109,84,75,14
+    GROUPBOX        "Timed Pulse",IDC_STATIC,15,127,179,66
+    LTEXT           "Pulse Time (Number):",IDC_STATIC,21,140,77,9
+    LTEXT           "Unit ( 0-Sec, 1-min , 2-hour) :",IDC_STATIC,21,156,92,9
+    EDITTEXT        IDC_EDIT_TP,119,138,63,13,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_TP_UNIT,119,154,63,13,ES_AUTOHSCROLL
+    PUSHBUTTON      "Timed Pulse",IDC_BTN_TIMEDPULSE,74,173,53,13
+    GROUPBOX        "P-Series Alarm Door Mode",IDC_STATIC,201,32,193,78
+    LTEXT           "Select the Door Mode :",IDC_STATIC,205,65,48,18
+    COMBOBOX        IDC_COMBO_DOORMODE,254,68,129,67,CBS_DROPDOWNLIST | 
+                    WS_VSCROLL | WS_TABSTOP
+    PUSHBUTTON      "Set Alarm Door Mode",IDC_BTN_DOORMODE,256,90,75,13
+    GROUPBOX        "NetAXS Door Mode",IDC_STATIC,201,113,193,45
+    PUSHBUTTON      "Get Door Modes",IDC_BTN_GET_NXDOORMODE,205,128,78,14
+    PUSHBUTTON      "Set Door Modes",IDC_BTN_SET_NXDOORMODE,292,128,76,14
+    PUSHBUTTON      "Get Default ACR Mode",IDC_BTN_ACR_MODE,254,47,78,14
+    GROUPBOX        "Door Status",IDC_STATIC,15,199,179,42
+    PUSHBUTTON      "Get Door Status",IDC_BTN_DOOR_STATUS,61,214,68,14
+    LTEXT           "Note: After Calling the getDoorStatus(), the Callback is additionally subscribed to the Door events",
+                    IDC_STATIC,15,246,304,8
+    GROUPBOX        "PRO3000_HBAC Alarm Door Mode",IDC_HBAC_GRP,201,163,193,
+                    78
+    LTEXT           "Select the Door Mode :",IDC_STATIC,205,197,48,18
+    COMBOBOX        IDC_COMBO_DOORMODE2,254,201,129,67,CBS_DROPDOWNLIST | 
+                    WS_VSCROLL | WS_TABSTOP
+    PUSHBUTTON      "Set Alarm Door Mode",IDC_BTN_DOORMODE2,256,222,75,13
+    PUSHBUTTON      "Get Default Door Mode",IDC_BTN_ACR_MODE2,254,179,78,14
+END
+
+
+#ifndef _MAC
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1092,5,0,0
+ PRODUCTVERSION 1092,5,0,0
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904b0"
+        BEGIN
+            VALUE "Comments", "\0"
+            VALUE "CompanyName", "Honeywell Access Systems\0"
+            VALUE "FileDescription", "CommAPI test client\0"
+            VALUE "FileVersion", "1092, 5, 0, 0\0"
+            VALUE "InternalName", "VCClient\0"
+            VALUE "LegalCopyright", "Copyright (C) 2022\0"
+            VALUE "LegalTrademarks", "\0"
+            VALUE "OriginalFilename", "VCClient.EXE\0"
+            VALUE "PrivateBuild", "\0"
+            VALUE "ProductName", "WIN-PAK Communication Server API Test Client\0"
+            VALUE "ProductVersion", "1092, 5, 0, 0\0"
+            VALUE "SpecialBuild", "\0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 1200
+    END
+END
+
+#endif    // !_MAC
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO DISCARDABLE 
+BEGIN
+    IDD_ABOUTBOX, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 275
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 108
+    END
+
+    IDD_VCCLIENT_DIALOG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 617
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 438
+    END
+
+    IDD_LOGIN_DIALOG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 201
+        TOPMARGIN, 6
+        BOTTOMMARGIN, 108
+    END
+
+    IDD_POINT_CONTROL_DIALOG, DIALOG
+    BEGIN
+        BOTTOMMARGIN, 300
+    END
+
+    IDD_ADV_CONTROL_DLG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 401
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 263
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// REGISTRY
+//
+
+IDR_VCCLIENT            REGISTRY DISCARDABLE    "VCClient.rgs"
+IDR_ClientClass         REGISTRY DISCARDABLE    "res\\ClientClass.rgs"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+IDR_MENU_COMM_CLIENT MENU DISCARDABLE 
+BEGIN
+    POPUP "&File"
+    BEGIN
+        MENUITEM "&Login",                      ID_FILE_LOGIN
+        MENUITEM "L&ogout",                     ID_FILE_LOGOUT
+        MENUITEM SEPARATOR
+        MENUITEM "E&xit",                       ID_FILE_EXIT
+    END
+    POPUP "&Operations"
+    BEGIN
+        MENUITEM "&Panel Controls",             ID_OPERATIONS_PANELCONTROL
+        MENUITEM "O&ther ADV Controls",         ID_OPERATIONS_OTHERADVCONTROLS
+
+    END
+    POPUP "&Help"
+    BEGIN
+        MENUITEM "&About",                      ID_HELP_ABOUT
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog Info
+//
+
+IDD_ADV_CONTROL_DLG DLGINIT
+BEGIN
+    IDC_COMBO_DOORMODE, 0x403, 17, 0
+0x6944, 0x6173, 0x6c62, 0x2065, 0x6874, 0x2065, 0x6f44, 0x726f, "\000" 
+    IDC_COMBO_DOORMODE, 0x403, 23, 0
+0x6e55, 0x6f6c, 0x6b63, 0x4c28, 0x6d69, 0x7469, 0x6465, 0x4120, 0x6363, 
+0x7365, 0x2973, "\000" 
+    IDC_COMBO_DOORMODE, 0x403, 33, 0
+0x6f4c, 0x6b63, 0x6465, 0x4e28, 0x206f, 0x6341, 0x6563, 0x7373, 0x202c, 
+0x6745, 0x6572, 0x7373, 0x4120, 0x7463, 0x7669, 0x2965, "\000" 
+    IDC_COMBO_DOORMODE, 0x403, 15, 0
+0x6953, 0x6574, 0x4320, 0x646f, 0x2065, 0x6e6f, 0x796c, "\000" 
+    IDC_COMBO_DOORMODE, 0x403, 10, 0
+0x6143, 0x6472, 0x6f20, 0x6c6e, 0x0079, 
+    IDC_COMBO_DOORMODE, 0x403, 9, 0
+0x6950, 0x206e, 0x6e4f, 0x796c, "\000" 
+    IDC_COMBO_DOORMODE, 0x403, 13, 0
+0x6143, 0x6472, 0x6120, 0x646e, 0x5020, 0x4e49, "\000" 
+    IDC_COMBO_DOORMODE, 0x403, 12, 0
+0x6143, 0x6472, 0x6f20, 0x2072, 0x4950, 0x004e, 
+    IDC_COMBO_DOORMODE2, 0x403, 17, 0
+0x6944, 0x6173, 0x6c62, 0x2065, 0x6874, 0x2065, 0x6f44, 0x726f, "\000" 
+    IDC_COMBO_DOORMODE2, 0x403, 23, 0
+0x6e55, 0x6f6c, 0x6b63, 0x4c28, 0x6d69, 0x7469, 0x6465, 0x4120, 0x6363, 
+0x7365, 0x2973, "\000" 
+    IDC_COMBO_DOORMODE2, 0x403, 33, 0
+0x6f4c, 0x6b63, 0x6465, 0x4e28, 0x206f, 0x6341, 0x6563, 0x7373, 0x202c, 
+0x6745, 0x6572, 0x7373, 0x4120, 0x7463, 0x7669, 0x2965, "\000" 
+    IDC_COMBO_DOORMODE2, 0x403, 10, 0
+0x6143, 0x6472, 0x6f20, 0x6c6e, 0x0079, 
+    IDC_COMBO_DOORMODE2, 0x403, 9, 0
+0x6950, 0x206e, 0x6e4f, 0x796c, "\000" 
+    IDC_COMBO_DOORMODE2, 0x403, 13, 0
+0x6143, 0x6472, 0x6120, 0x646e, 0x5020, 0x4e49, "\000" 
+    IDC_COMBO_DOORMODE2, 0x403, 12, 0
+0x6143, 0x6472, 0x6f20, 0x2072, 0x4950, 0x004e, 
+    0
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDP_OLE_INIT_FAILED     "OLE initialization failed.  Make sure that the OLE libraries are the correct version."
+    IDS_ABOUTBOX            "&About VCClient..."
+    IDS_CLIENTCLASS_DESC    "ClientClass Class"
+END
+
+#endif    // English (U.S.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE 9, 1
+#pragma code_page(1252)
+#endif //_WIN32
+#include "res\VCClient.rc2"  // non-Microsoft Visual C++ edited resources
+#include "afxres.rc"         // Standard components
+#endif
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

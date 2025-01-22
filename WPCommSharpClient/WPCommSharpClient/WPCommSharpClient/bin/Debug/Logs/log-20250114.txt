@@ -1,0 +1,27 @@
+2025-01-14 14:24:17.408 +07:00 [DBG] Calling unlock ....
+2025-01-14 14:24:17.533 +07:00 [DBG] Username: admin
+2025-01-14 14:24:17.533 +07:00 [DBG] Password: Vht@20252026
+2025-01-14 14:24:18.689 +07:00 [ERR] Error Login with initServer
+2025-01-14 15:36:09.215 +07:00 [DBG] Calling unlock ....
+2025-01-14 15:36:09.435 +07:00 [DBG] Username: admin
+2025-01-14 15:36:09.436 +07:00 [DBG] Password: Vht"20252026
+2025-01-14 15:41:10.641 +07:00 [DBG] UnLock successful for HID=17
+2025-01-14 15:41:10.692 +07:00 [DBG] Total time: 301501.1657 ms
+2025-01-14 15:44:16.228 +07:00 [DBG] Calling unlock ....
+2025-01-14 15:44:16.231 +07:00 [DBG] Username: admin
+2025-01-14 15:44:16.231 +07:00 [DBG] Password: Vht"20252026
+2025-01-14 15:49:17.072 +07:00 [DBG] UnLock successful for HID=17
+2025-01-14 15:49:17.072 +07:00 [DBG] Total time: 300844.3832 ms
+2025-01-14 15:51:22.107 +07:00 [DBG] Calling unlock ....
+2025-01-14 15:51:22.107 +07:00 [DBG] Username: admin
+2025-01-14 15:51:22.107 +07:00 [DBG] Password: Vht"20252026
+2025-01-14 16:04:01.398 +07:00 [DBG] Calling unlock ....
+2025-01-14 16:04:01.598 +07:00 [DBG] Username: admin
+2025-01-14 16:04:01.598 +07:00 [DBG] Password: Vht"20252026
+2025-01-14 16:04:02.945 +07:00 [DBG] UnLock successful for HID=15
+2025-01-14 16:04:02.976 +07:00 [DBG] Total time: 1600.9834 ms
+2025-01-14 16:10:33.776 +07:00 [DBG] Calling unlock ....
+2025-01-14 16:10:33.776 +07:00 [DBG] Username: admin
+2025-01-14 16:10:33.776 +07:00 [DBG] Password: Vht"20252026
+2025-01-14 16:10:34.182 +07:00 [DBG] UnLock successful for HID=15
+2025-01-14 16:10:34.182 +07:00 [DBG] Total time: 406.4485 ms

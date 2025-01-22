@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\project_API\\project_API_1\\project_API_1\\project_API\\WPCommSharpClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE221A6-0675-4198-B743-1BC6B1AECDA1}|WPCommSharpClient\\WPCommSharpClient.csproj|c:\\project_api\\project_api_1\\project_api_1\\project_api\\wpcommsharpclient\\wpcommsharpclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAE221A6-0675-4198-B743-1BC6B1AECDA1}|WPCommSharpClient\\WPCommSharpClient.csproj|solutionrelative:wpcommsharpclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE221A6-0675-4198-B743-1BC6B1AECDA1}|WPCommSharpClient\\WPCommSharpClient.csproj|C:\\project_API\\project_API_1\\project_API_1\\project_API\\WPCommSharpClient\\wpcommsharpclient\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAE221A6-0675-4198-B743-1BC6B1AECDA1}|WPCommSharpClient\\WPCommSharpClient.csproj|solutionrelative:wpcommsharpclient\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE221A6-0675-4198-B743-1BC6B1AECDA1}|WPCommSharpClient\\WPCommSharpClient.csproj|C:\\project_API\\project_API_1\\project_API_1\\project_API\\WPCommSharpClient\\wpcommsharpclient\\controller\\winpakapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAE221A6-0675-4198-B743-1BC6B1AECDA1}|WPCommSharpClient\\WPCommSharpClient.csproj|solutionrelative:wpcommsharpclient\\controller\\winpakapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE221A6-0675-4198-B743-1BC6B1AECDA1}|WPCommSharpClient\\WPCommSharpClient.csproj|C:\\project_API\\project_API_1\\project_API_1\\project_API\\WPCommSharpClient\\wpcommsharpclient\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BAE221A6-0675-4198-B743-1BC6B1AECDA1}|WPCommSharpClient\\WPCommSharpClient.csproj|solutionrelative:wpcommsharpclient\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE221A6-0675-4198-B743-1BC6B1AECDA1}|WPCommSharpClient\\WPCommSharpClient.csproj|C:\\project_API\\project_API_1\\project_API_1\\project_API\\WPCommSharpClient\\wpcommsharpclient\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BAE221A6-0675-4198-B743-1BC6B1AECDA1}|WPCommSharpClient\\WPCommSharpClient.csproj|solutionrelative:wpcommsharpclient\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE221A6-0675-4198-B743-1BC6B1AECDA1}|WPCommSharpClient\\WPCommSharpClient.csproj|C:\\project_API\\project_API_1\\project_API_1\\project_API\\WPCommSharpClient\\wpcommsharpclient\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BAE221A6-0675-4198-B743-1BC6B1AECDA1}|WPCommSharpClient\\WPCommSharpClient.csproj|solutionrelative:wpcommsharpclient\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\project_API\\project_API_1\\project_API_1\\project_API\\WPCommSharpClient\\WPCommSharpClient\\packages.config",
+              "RelativeDocumentMoniker": "WPCommSharpClient\\packages.config",
+              "ToolTip": "C:\\project_API\\project_API_1\\project_API_1\\project_API\\WPCommSharpClient\\WPCommSharpClient\\packages.config",
+              "RelativeToolTip": "WPCommSharpClient\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-20T04:41:51.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\project_API\\project_API_1\\project_API_1\\project_API\\WPCommSharpClient\\WPCommSharpClient\\App.config",
+              "RelativeDocumentMoniker": "WPCommSharpClient\\App.config",
+              "ToolTip": "C:\\project_API\\project_API_1\\project_API_1\\project_API\\WPCommSharpClient\\WPCommSharpClient\\App.config",
+              "RelativeToolTip": "WPCommSharpClient\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-20T04:41:45.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\project_API\\project_API_1\\project_API_1\\project_API\\WPCommSharpClient\\WPCommSharpClient\\appsettings.json",
+              "RelativeDocumentMoniker": "WPCommSharpClient\\appsettings.json",
+              "ToolTip": "C:\\project_API\\project_API_1\\project_API_1\\project_API\\WPCommSharpClient\\WPCommSharpClient\\appsettings.json",
+              "RelativeToolTip": "WPCommSharpClient\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-20T03:30:33.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WinPakApiController.cs",
+              "DocumentMoniker": "C:\\project_API\\project_API_1\\project_API_1\\project_API\\WPCommSharpClient\\WPCommSharpClient\\Controller\\WinPakApiController.cs",
+              "RelativeDocumentMoniker": "WPCommSharpClient\\Controller\\WinPakApiController.cs",
+              "ToolTip": "C:\\project_API\\project_API_1\\project_API_1\\project_API\\WPCommSharpClient\\WPCommSharpClient\\Controller\\WinPakApiController.cs",
+              "RelativeToolTip": "WPCommSharpClient\\Controller\\WinPakApiController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAmwC0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T02:03:44.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\project_API\\project_API_1\\project_API_1\\project_API\\WPCommSharpClient\\WPCommSharpClient\\Program.cs",
+              "RelativeDocumentMoniker": "WPCommSharpClient\\Program.cs",
+              "ToolTip": "C:\\project_API\\project_API_1\\project_API_1\\project_API\\WPCommSharpClient\\WPCommSharpClient\\Program.cs",
+              "RelativeToolTip": "WPCommSharpClient\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwBAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T01:49:59.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\project_API\\project_API_1\\project_API_1\\project_API\\WPCommSharpClient\\WPCommSharpClient\\Startup.cs",
+              "RelativeDocumentMoniker": "WPCommSharpClient\\Startup.cs",
+              "ToolTip": "C:\\project_API\\project_API_1\\project_API_1\\project_API\\WPCommSharpClient\\WPCommSharpClient\\Startup.cs",
+              "RelativeToolTip": "WPCommSharpClient\\Startup.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwEEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T03:02:50.869Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

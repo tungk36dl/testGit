@@ -1,0 +1,330 @@
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\WPCommSharpClient.exe.config
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\WPCommSharpClient.exe
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\WPCommSharpClient.pdb
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Interop.Accw.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\obj\Debug\WPCommSharpClient.csproj.AssemblyReference.cache
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\obj\Debug\Interop.Accw.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\obj\Debug\WPCommSharpClient.csproj.ResolveComReference.cache
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\obj\Debug\WPCommSharpClient.MainView.resources
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\obj\Debug\WPCommSharpClient.Properties.Resources.resources
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\obj\Debug\WPCommSharpClient.csproj.GenerateResource.cache
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\obj\Debug\WPCommSharpClient.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\obj\Debug\WPCommSharpClient.exe
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\obj\Debug\WPCommSharpClient.pdb
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Owin.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Owin.Hosting.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Newtonsoft.Json.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Owin.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Buffers.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Memory.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Numerics.Vectors.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Web.Http.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Web.Http.Owin.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Owin.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Owin.Hosting.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Newtonsoft.Json.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Buffers.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Memory.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Numerics.Vectors.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Web.Http.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Web.Http.Owin.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\obj\Debug\WPCommSharpClient.csproj.SuggestedBindingRedirects.cache
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\obj\Debug\WPCommSharpClient.exe.config
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\obj\Debug\WPCommSh.FCC098F6.Up2Date
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Serilog.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Serilog.Sinks.Console.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Serilog.Sinks.File.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Threading.Channels.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Serilog.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Serilog.Sinks.Console.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Serilog.Sinks.File.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Threading.Channels.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\SimpleInjector.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\SimpleInjector.Integration.WebApi.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\SimpleInjector.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\SimpleInjector.Integration.WebApi.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.IO.Pipelines.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Text.Encodings.Web.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Text.Json.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.ValueTuple.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.IO.Pipelines.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Text.Encodings.Web.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Text.Json.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.ValueTuple.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\bin\Debug\appsettings.json
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\appsettings.json
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\WPCommSharpClient.exe.config
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\WPCommSharpClient.exe
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\WPCommSharpClient.pdb
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Owin.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Owin.Hosting.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\Newtonsoft.Json.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\Owin.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\Serilog.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\Serilog.Sinks.Console.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\Serilog.Sinks.File.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\SimpleInjector.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\SimpleInjector.Integration.WebApi.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Buffers.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.IO.Pipelines.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Memory.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Numerics.Vectors.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Text.Encodings.Web.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Text.Json.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Threading.Channels.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.ValueTuple.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Web.Http.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Web.Http.Owin.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Owin.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Owin.Hosting.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\Newtonsoft.Json.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\Serilog.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\Serilog.Sinks.Console.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\Serilog.Sinks.File.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\SimpleInjector.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\SimpleInjector.Integration.WebApi.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Buffers.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.IO.Pipelines.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Memory.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Numerics.Vectors.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Text.Encodings.Web.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Text.Json.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Threading.Channels.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.ValueTuple.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Web.Http.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Web.Http.Owin.xml
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\bin\Debug\Interop.Accw.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\obj\Debug\WPCommSharpClient.csproj.AssemblyReference.cache
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\obj\Debug\WPCommSharpClient.csproj.SuggestedBindingRedirects.cache
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\obj\Debug\WPCommSharpClient.exe.config
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\obj\Debug\Interop.Accw.dll
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\obj\Debug\WPCommSharpClient.csproj.ResolveComReference.cache
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\obj\Debug\WPCommSharpClient.MainView.resources
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\obj\Debug\WPCommSharpClient.Properties.Resources.resources
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\obj\Debug\WPCommSharpClient.csproj.GenerateResource.cache
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\obj\Debug\WPCommSharpClient.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\obj\Debug\WPCommSh.FCC098F6.Up2Date
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\obj\Debug\WPCommSharpClient.exe
+C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\WPCommSharpClient\obj\Debug\WPCommSharpClient.pdb
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\appsettings.json
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\WPCommSharpClient.exe.config
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\WPCommSharpClient.exe
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\WPCommSharpClient.pdb
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Owin.dll
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Owin.Hosting.dll
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Newtonsoft.Json.Bson.dll
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Newtonsoft.Json.dll
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Owin.dll
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Serilog.dll
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Serilog.Sinks.Console.dll
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Serilog.Sinks.File.dll
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\SimpleInjector.dll
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\SimpleInjector.Integration.WebApi.dll
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Buffers.dll
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.IO.Pipelines.dll
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Memory.dll
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Net.Http.Formatting.dll
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Numerics.Vectors.dll
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Text.Encodings.Web.dll
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Text.Json.dll
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Threading.Channels.dll
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.ValueTuple.dll
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Web.Http.dll
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Web.Http.Owin.dll
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Owin.xml
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Owin.Hosting.xml
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Newtonsoft.Json.xml
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Newtonsoft.Json.Bson.pdb
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Newtonsoft.Json.Bson.xml
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Serilog.xml
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Serilog.Sinks.Console.xml
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Serilog.Sinks.File.xml
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\SimpleInjector.xml
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\SimpleInjector.Integration.WebApi.xml
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Buffers.xml
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.IO.Pipelines.xml
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Memory.xml
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Net.Http.Formatting.xml
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Numerics.Vectors.xml
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Text.Encodings.Web.xml
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Text.Json.xml
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Threading.Channels.xml
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.ValueTuple.xml
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Web.Http.xml
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Web.Http.Owin.xml
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Interop.Accw.dll
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\obj\Debug\WPCommSharpClient.csproj.AssemblyReference.cache
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\obj\Debug\WPCommSharpClient.csproj.SuggestedBindingRedirects.cache
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\obj\Debug\WPCommSharpClient.exe.config
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\obj\Debug\Interop.Accw.dll
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\obj\Debug\WPCommSharpClient.csproj.ResolveComReference.cache
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\obj\Debug\WPCommSharpClient.MainView.resources
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\obj\Debug\WPCommSharpClient.Properties.Resources.resources
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\obj\Debug\WPCommSharpClient.csproj.GenerateResource.cache
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\obj\Debug\WPCommSharpClient.csproj.CoreCompileInputs.cache
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\obj\Debug\WPCommSh.FCC098F6.Up2Date
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\obj\Debug\WPCommSharpClient.exe
+D:\Thực tập\project_API\project_API\WPCommSharpClient\WPCommSharpClient\obj\Debug\WPCommSharpClient.pdb
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\appsettings.json
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\WPCommSharpClient.exe.config
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\WPCommSharpClient.exe
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\WPCommSharpClient.pdb
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Owin.dll
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Owin.Hosting.dll
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Newtonsoft.Json.dll
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Owin.dll
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Serilog.dll
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Serilog.Sinks.Console.dll
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Serilog.Sinks.File.dll
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\SimpleInjector.dll
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\SimpleInjector.Integration.WebApi.dll
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Buffers.dll
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.IO.Pipelines.dll
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Memory.dll
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Numerics.Vectors.dll
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Text.Encodings.Web.dll
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Text.Json.dll
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Threading.Channels.dll
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.ValueTuple.dll
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Web.Http.dll
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Web.Http.Owin.dll
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Owin.xml
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Microsoft.Owin.Hosting.xml
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Newtonsoft.Json.xml
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Serilog.xml
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Serilog.Sinks.Console.xml
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Serilog.Sinks.File.xml
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\SimpleInjector.xml
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\SimpleInjector.Integration.WebApi.xml
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Buffers.xml
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.IO.Pipelines.xml
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Memory.xml
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Numerics.Vectors.xml
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Text.Encodings.Web.xml
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Text.Json.xml
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Threading.Channels.xml
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.ValueTuple.xml
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Web.Http.xml
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\System.Web.Http.Owin.xml
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\bin\Debug\Interop.Accw.dll
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\obj\Debug\WPCommSharpClient.csproj.AssemblyReference.cache
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\obj\Debug\WPCommSharpClient.csproj.SuggestedBindingRedirects.cache
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\obj\Debug\WPCommSharpClient.exe.config
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\obj\Debug\Interop.Accw.dll
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\obj\Debug\WPCommSharpClient.csproj.ResolveComReference.cache
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\obj\Debug\WPCommSharpClient.MainView.resources
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\obj\Debug\WPCommSharpClient.Properties.Resources.resources
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\obj\Debug\WPCommSharpClient.csproj.GenerateResource.cache
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\obj\Debug\WPCommSharpClient.csproj.CoreCompileInputs.cache
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\obj\Debug\WPCommSh.FCC098F6.Up2Date
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\obj\Debug\WPCommSharpClient.exe
+C:\project_API\project_API_1\project_API_1\project_API\WPCommSharpClient\WPCommSharpClient\obj\Debug\WPCommSharpClient.pdb

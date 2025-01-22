@@ -1,0 +1,238 @@
+2025-01-03 11:14:31.164 +07:00 [DBG] Calling login....
+2025-01-03 11:14:32.112 +07:00 [INF] Login successful
+2025-01-03 11:15:22.420 +07:00 [DBG] Lock successful for HID=18
+2025-01-03 11:15:48.453 +07:00 [DBG] Calling logout....
+2025-01-03 11:15:50.064 +07:00 [DBG] Logout successfully.
+2025-01-03 11:15:56.886 +07:00 [ERR] Failed to lock entry.
+System.Runtime.InteropServices.COMException (0x800706BE): The remote procedure call failed. (Exception from HRESULT: 0x800706BE)
+   at Accw.MTSCBServerClass.EntryPointUnLockByHID(Int32 lHID)
+   at WPCommSharpClient.ApiController.<EntryUnLockById>d__6.MoveNext() in C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\Controller\ApiController.cs:line 133
+2025-01-03 11:16:04.238 +07:00 [ERR] Failed to lock entry.
+System.InvalidCastException: Unable to cast COM object of type 'Accw.MTSCBServerClass' to interface type 'Accw.IMTSCBServer'. This operation failed because the QueryInterface call on the COM component for the interface with IID '{BF3EBC54-109D-4668-8834-C03B62DF7537}' failed due to the following error: The RPC server is unavailable. (Exception from HRESULT: 0x800706BA).
+   at System.StubHelpers.StubHelpers.GetCOMIPFromRCW(Object objSrc, IntPtr pCPCMD, IntPtr& ppTarget, Boolean& pfNeedsRelease)
+   at Accw.MTSCBServerClass.EntryPointUnLockByHID(Int32 lHID)
+   at WPCommSharpClient.ApiController.<EntryUnLockById>d__6.MoveNext() in C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\Controller\ApiController.cs:line 133
+2025-01-03 11:16:28.071 +07:00 [DBG] Calling login....
+2025-01-03 11:16:28.137 +07:00 [ERR] Login failed.
+System.InvalidCastException: Unable to cast COM object of type 'Accw.MTSCBServerClass' to interface type 'Accw.IMTSCBServer'. This operation failed because the QueryInterface call on the COM component for the interface with IID '{BF3EBC54-109D-4668-8834-C03B62DF7537}' failed due to the following error: The RPC server is unavailable. (Exception from HRESULT: 0x800706BA).
+   at System.StubHelpers.StubHelpers.GetCOMIPFromRCW(Object objSrc, IntPtr pCPCMD, IntPtr& ppTarget, Boolean& pfNeedsRelease)
+   at Accw.MTSCBServerClass.InitServer(Object Caller, Int32 enumViewType, String sUserName, String sPassword, Int32 lUserid)
+   at WPCommSharpClient.ApiController.<Login>d__3.MoveNext() in C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\Controller\ApiController.cs:line 36
+2025-01-03 11:16:34.339 +07:00 [DBG] Calling login....
+2025-01-03 11:16:34.409 +07:00 [ERR] Login failed.
+System.InvalidCastException: Unable to cast COM object of type 'Accw.MTSCBServerClass' to interface type 'Accw.IMTSCBServer'. This operation failed because the QueryInterface call on the COM component for the interface with IID '{BF3EBC54-109D-4668-8834-C03B62DF7537}' failed due to the following error: The RPC server is unavailable. (Exception from HRESULT: 0x800706BA).
+   at System.StubHelpers.StubHelpers.GetCOMIPFromRCW(Object objSrc, IntPtr pCPCMD, IntPtr& ppTarget, Boolean& pfNeedsRelease)
+   at Accw.MTSCBServerClass.InitServer(Object Caller, Int32 enumViewType, String sUserName, String sPassword, Int32 lUserid)
+   at WPCommSharpClient.ApiController.<Login>d__3.MoveNext() in C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\Controller\ApiController.cs:line 36
+2025-01-03 11:16:37.859 +07:00 [ERR] Failed to lock entry.
+System.InvalidCastException: Unable to cast COM object of type 'Accw.MTSCBServerClass' to interface type 'Accw.IMTSCBServer'. This operation failed because the QueryInterface call on the COM component for the interface with IID '{BF3EBC54-109D-4668-8834-C03B62DF7537}' failed due to the following error: The RPC server is unavailable. (Exception from HRESULT: 0x800706BA).
+   at System.StubHelpers.StubHelpers.GetCOMIPFromRCW(Object objSrc, IntPtr pCPCMD, IntPtr& ppTarget, Boolean& pfNeedsRelease)
+   at Accw.MTSCBServerClass.EntryPointUnLockByHID(Int32 lHID)
+   at WPCommSharpClient.ApiController.<EntryUnLockById>d__6.MoveNext() in C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\Controller\ApiController.cs:line 133
+2025-01-03 11:20:30.946 +07:00 [DBG] Calling login....
+2025-01-03 11:20:32.040 +07:00 [INF] Login successful
+2025-01-03 11:20:41.756 +07:00 [DBG] Calling login....
+2025-01-03 11:20:42.277 +07:00 [INF] Login successful
+2025-01-03 11:20:47.472 +07:00 [DBG] Calling logout....
+2025-01-03 11:20:49.010 +07:00 [DBG] Logout successfully.
+2025-01-03 11:20:59.929 +07:00 [ERR] Failed to lock entry.
+System.Runtime.InteropServices.COMException (0x800706BE): The remote procedure call failed. (Exception from HRESULT: 0x800706BE)
+   at Accw.MTSCBServerClass.EntryPointUnLockByHID(Int32 lHID)
+   at WPCommSharpClient.ApiController.<EntryUnLockById>d__6.MoveNext() in C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\Controller\ApiController.cs:line 133
+2025-01-03 11:21:03.888 +07:00 [DBG] Calling login....
+2025-01-03 11:21:03.961 +07:00 [ERR] Login failed.
+System.InvalidCastException: Unable to cast COM object of type 'Accw.MTSCBServerClass' to interface type 'Accw.IMTSCBServer'. This operation failed because the QueryInterface call on the COM component for the interface with IID '{BF3EBC54-109D-4668-8834-C03B62DF7537}' failed due to the following error: The RPC server is unavailable. (Exception from HRESULT: 0x800706BA).
+   at System.StubHelpers.StubHelpers.GetCOMIPFromRCW(Object objSrc, IntPtr pCPCMD, IntPtr& ppTarget, Boolean& pfNeedsRelease)
+   at Accw.MTSCBServerClass.InitServer(Object Caller, Int32 enumViewType, String sUserName, String sPassword, Int32 lUserid)
+   at WPCommSharpClient.ApiController.<Login>d__3.MoveNext() in C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\Controller\ApiController.cs:line 36
+2025-01-03 11:21:06.505 +07:00 [DBG] Calling login....
+2025-01-03 11:21:06.574 +07:00 [ERR] Login failed.
+System.InvalidCastException: Unable to cast COM object of type 'Accw.MTSCBServerClass' to interface type 'Accw.IMTSCBServer'. This operation failed because the QueryInterface call on the COM component for the interface with IID '{BF3EBC54-109D-4668-8834-C03B62DF7537}' failed due to the following error: The RPC server is unavailable. (Exception from HRESULT: 0x800706BA).
+   at System.StubHelpers.StubHelpers.GetCOMIPFromRCW(Object objSrc, IntPtr pCPCMD, IntPtr& ppTarget, Boolean& pfNeedsRelease)
+   at Accw.MTSCBServerClass.InitServer(Object Caller, Int32 enumViewType, String sUserName, String sPassword, Int32 lUserid)
+   at WPCommSharpClient.ApiController.<Login>d__3.MoveNext() in C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\Controller\ApiController.cs:line 36
+2025-01-03 11:21:08.604 +07:00 [DBG] Calling login....
+2025-01-03 11:21:08.674 +07:00 [ERR] Login failed.
+System.InvalidCastException: Unable to cast COM object of type 'Accw.MTSCBServerClass' to interface type 'Accw.IMTSCBServer'. This operation failed because the QueryInterface call on the COM component for the interface with IID '{BF3EBC54-109D-4668-8834-C03B62DF7537}' failed due to the following error: The RPC server is unavailable. (Exception from HRESULT: 0x800706BA).
+   at System.StubHelpers.StubHelpers.GetCOMIPFromRCW(Object objSrc, IntPtr pCPCMD, IntPtr& ppTarget, Boolean& pfNeedsRelease)
+   at Accw.MTSCBServerClass.InitServer(Object Caller, Int32 enumViewType, String sUserName, String sPassword, Int32 lUserid)
+   at WPCommSharpClient.ApiController.<Login>d__3.MoveNext() in C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\Controller\ApiController.cs:line 36
+2025-01-03 11:21:13.065 +07:00 [ERR] Failed to lock entry.
+System.InvalidCastException: Unable to cast COM object of type 'Accw.MTSCBServerClass' to interface type 'Accw.IMTSCBServer'. This operation failed because the QueryInterface call on the COM component for the interface with IID '{BF3EBC54-109D-4668-8834-C03B62DF7537}' failed due to the following error: The RPC server is unavailable. (Exception from HRESULT: 0x800706BA).
+   at System.StubHelpers.StubHelpers.GetCOMIPFromRCW(Object objSrc, IntPtr pCPCMD, IntPtr& ppTarget, Boolean& pfNeedsRelease)
+   at Accw.MTSCBServerClass.EntryPointUnLockByHID(Int32 lHID)
+   at WPCommSharpClient.ApiController.<EntryUnLockById>d__6.MoveNext() in C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\Controller\ApiController.cs:line 133
+2025-01-03 11:24:46.280 +07:00 [DBG] Calling login....
+2025-01-03 11:24:47.906 +07:00 [INF] Login successful
+2025-01-03 11:25:02.545 +07:00 [DBG] Lock successful for HID=18
+2025-01-03 11:25:08.987 +07:00 [DBG] Calling login....
+2025-01-03 11:25:09.684 +07:00 [INF] Login successful
+2025-01-03 11:25:11.897 +07:00 [DBG] Calling login....
+2025-01-03 11:25:13.147 +07:00 [INF] Login successful
+2025-01-03 11:25:47.769 +07:00 [DBG] Calling logout....
+2025-01-03 11:25:49.261 +07:00 [DBG] Logout successfully.
+2025-01-03 11:25:56.864 +07:00 [DBG] Calling login....
+2025-01-03 11:25:57.577 +07:00 [INF] Login successful
+2025-01-03 11:26:00.575 +07:00 [DBG] Calling login....
+2025-01-03 11:26:01.305 +07:00 [INF] Login successful
+2025-01-03 11:26:09.994 +07:00 [DBG] Calling logout....
+2025-01-03 11:26:11.489 +07:00 [DBG] Logout successfully.
+2025-01-03 11:26:15.457 +07:00 [DBG] Calling login....
+2025-01-03 11:26:16.194 +07:00 [INF] Login successful
+2025-01-03 11:26:23.077 +07:00 [DBG] Lock successful for HID=18
+2025-01-03 11:26:25.988 +07:00 [DBG] Lock successful for HID=18
+2025-01-03 11:26:32.096 +07:00 [DBG] Calling logout....
+2025-01-03 11:26:33.608 +07:00 [DBG] Logout successfully.
+2025-01-03 11:26:40.990 +07:00 [ERR] Failed to lock entry.
+System.Runtime.InteropServices.COMException (0x800706BE): The remote procedure call failed. (Exception from HRESULT: 0x800706BE)
+   at Accw.MTSCBServerClass.EntryPointUnLockByHID(Int32 lHID)
+   at WPCommSharpClient.ApiController.<EntryUnLockById>d__6.MoveNext() in C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\Controller\ApiController.cs:line 133
+2025-01-03 11:26:47.955 +07:00 [ERR] Failed to lock entry.
+System.InvalidCastException: Unable to cast COM object of type 'Accw.MTSCBServerClass' to interface type 'Accw.IMTSCBServer'. This operation failed because the QueryInterface call on the COM component for the interface with IID '{BF3EBC54-109D-4668-8834-C03B62DF7537}' failed due to the following error: The RPC server is unavailable. (Exception from HRESULT: 0x800706BA).
+   at System.StubHelpers.StubHelpers.GetCOMIPFromRCW(Object objSrc, IntPtr pCPCMD, IntPtr& ppTarget, Boolean& pfNeedsRelease)
+   at Accw.MTSCBServerClass.EntryPointUnLockByHID(Int32 lHID)
+   at WPCommSharpClient.ApiController.<EntryUnLockById>d__6.MoveNext() in C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\Controller\ApiController.cs:line 133
+2025-01-03 11:31:34.548 +07:00 [DBG] Calling login....
+2025-01-03 11:31:36.072 +07:00 [INF] Login successful
+2025-01-03 11:31:42.736 +07:00 [DBG] Calling unlock ....
+2025-01-03 11:31:42.889 +07:00 [DBG] Lock successful for HID=18
+2025-01-03 11:32:53.363 +07:00 [DBG] Calling login....
+2025-01-03 11:32:55.019 +07:00 [INF] Login successful
+2025-01-03 11:32:59.189 +07:00 [DBG] Calling logout....
+2025-01-03 11:33:00.714 +07:00 [DBG] Logout successfully.
+2025-01-03 11:33:07.979 +07:00 [ERR] Failed to lock entry.
+System.Runtime.InteropServices.COMException (0x800706BE): The remote procedure call failed. (Exception from HRESULT: 0x800706BE)
+   at Accw.MTSCBServerClass.EntryPointLockByHID(Int32 lHID)
+   at WPCommSharpClient.ApiController.<EntryLockById>d__5.MoveNext() in C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\Controller\ApiController.cs:line 102
+2025-01-03 11:33:16.193 +07:00 [DBG] Calling unlock ....
+2025-01-03 11:33:16.267 +07:00 [ERR] Failed to lock entry.
+System.InvalidCastException: Unable to cast COM object of type 'Accw.MTSCBServerClass' to interface type 'Accw.IMTSCBServer'. This operation failed because the QueryInterface call on the COM component for the interface with IID '{BF3EBC54-109D-4668-8834-C03B62DF7537}' failed due to the following error: The RPC server is unavailable. (Exception from HRESULT: 0x800706BA).
+   at System.StubHelpers.StubHelpers.GetCOMIPFromRCW(Object objSrc, IntPtr pCPCMD, IntPtr& ppTarget, Boolean& pfNeedsRelease)
+   at Accw.MTSCBServerClass.EntryPointUnLockByHID(Int32 lHID)
+   at WPCommSharpClient.ApiController.<EntryUnLockById>d__6.MoveNext() in C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\Controller\ApiController.cs:line 135
+2025-01-03 11:33:57.553 +07:00 [DBG] Calling login....
+2025-01-03 11:33:58.776 +07:00 [INF] Login successful
+2025-01-03 11:34:08.952 +07:00 [DBG] Calling lock.....
+2025-01-03 11:34:09.143 +07:00 [DBG] Lock successful for HID=18
+2025-01-03 11:34:13.123 +07:00 [DBG] Calling unlock ....
+2025-01-03 11:34:13.255 +07:00 [DBG] UnLock successful for HID=18
+2025-01-03 11:52:01.375 +07:00 [DBG] Calling unlock ....
+2025-01-03 11:52:01.609 +07:00 [DBG] Username: 
+2025-01-03 11:52:01.613 +07:00 [DBG] Password: 
+2025-01-03 11:52:03.226 +07:00 [DBG] UnLock successful for HID=18
+2025-01-03 11:52:08.872 +07:00 [DBG] Calling unlock ....
+2025-01-03 11:52:08.875 +07:00 [DBG] Username: 
+2025-01-03 11:52:08.875 +07:00 [DBG] Password: 
+2025-01-03 11:52:09.989 +07:00 [DBG] UnLock successful for HID=18
+2025-01-03 11:52:21.848 +07:00 [DBG] Calling unlock ....
+2025-01-03 11:52:21.849 +07:00 [DBG] Username: 
+2025-01-03 11:52:21.850 +07:00 [DBG] Password: 
+2025-01-03 11:52:22.849 +07:00 [DBG] UnLock successful for HID=18
+2025-01-03 11:52:24.954 +07:00 [DBG] Calling unlock ....
+2025-01-03 11:52:24.956 +07:00 [DBG] Username: 
+2025-01-03 11:52:24.957 +07:00 [DBG] Password: 
+2025-01-03 11:52:25.797 +07:00 [DBG] UnLock successful for HID=18
+2025-01-03 13:44:51.855 +07:00 [DBG] Calling unlock ....
+2025-01-03 13:44:51.856 +07:00 [DBG] Username: 
+2025-01-03 13:44:51.856 +07:00 [DBG] Password: 
+2025-01-03 13:44:53.878 +07:00 [DBG] UnLock successful for HID=18
+2025-01-03 14:02:15.355 +07:00 [DBG] Calling unlock ....
+2025-01-03 14:02:15.715 +07:00 [DBG] Username: 
+2025-01-03 14:02:15.722 +07:00 [DBG] Password: 
+2025-01-03 14:02:17.667 +07:00 [DBG] UnLock successful for HID=18
+2025-01-03 14:02:30.448 +07:00 [DBG] Calling unlock ....
+2025-01-03 14:02:30.451 +07:00 [DBG] Username: 
+2025-01-03 14:02:30.453 +07:00 [DBG] Password: 
+2025-01-03 14:02:31.321 +07:00 [DBG] UnLock successful for HID=18000
+2025-01-03 14:02:38.928 +07:00 [DBG] Calling unlock ....
+2025-01-03 14:02:38.930 +07:00 [DBG] Username: 
+2025-01-03 14:02:38.930 +07:00 [DBG] Password: 
+2025-01-03 14:02:39.702 +07:00 [DBG] UnLock successful for HID=18000000
+2025-01-03 14:03:01.052 +07:00 [DBG] Calling unlock ....
+2025-01-03 14:03:01.063 +07:00 [DBG] Username: 
+2025-01-03 14:03:01.064 +07:00 [DBG] Password: 
+2025-01-03 14:03:02.124 +07:00 [ERR] Failed to unlock entry.
+System.InvalidOperationException: Nullable object must have a value.
+   at System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   at System.Nullable`1.get_Value()
+   at WPCommSharpClient.ApiController.<EntryUnLockById>d__6.MoveNext() in C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\Controller\ApiController.cs:line 154
+2025-01-03 14:03:05.286 +07:00 [DBG] Calling unlock ....
+2025-01-03 14:03:05.289 +07:00 [DBG] Username: 
+2025-01-03 14:03:05.289 +07:00 [DBG] Password: 
+2025-01-03 14:03:06.217 +07:00 [ERR] Failed to unlock entry.
+System.InvalidOperationException: Nullable object must have a value.
+   at System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   at System.Nullable`1.get_Value()
+   at WPCommSharpClient.ApiController.<EntryUnLockById>d__6.MoveNext() in C:\Program Files (x86)\WINPAKPRO\DBAPI\API Samples\WIN-PAK Comm Server API\WPCommSharpClient\WPCommSharpClient\Controller\ApiController.cs:line 154
+2025-01-03 14:06:18.253 +07:00 [DBG] Calling unlock ....
+2025-01-03 14:06:18.388 +07:00 [DBG] Username: 
+2025-01-03 14:06:18.392 +07:00 [DBG] Password: 
+2025-01-03 14:06:19.071 +07:00 [DBG] UnLock successful for HID=18
+2025-01-03 14:06:35.591 +07:00 [DBG] Calling unlock ....
+2025-01-03 14:06:35.598 +07:00 [DBG] Username: 
+2025-01-03 14:06:35.599 +07:00 [DBG] Password: 
+2025-01-03 14:06:36.592 +07:00 [DBG] UnLock successful for HID=18
+2025-01-03 14:06:46.153 +07:00 [DBG] Calling logout....
+2025-01-03 14:06:47.841 +07:00 [DBG] Logout successfully.
+2025-01-03 14:06:51.723 +07:00 [DBG] Calling unlock ....
+2025-01-03 14:06:51.725 +07:00 [DBG] Username: 
+2025-01-03 14:06:51.726 +07:00 [DBG] Password: 
+2025-01-03 14:06:52.293 +07:00 [DBG] UnLock successful for HID=18
+2025-01-03 14:06:54.569 +07:00 [DBG] Calling unlock ....
+2025-01-03 14:06:54.570 +07:00 [DBG] Username: 
+2025-01-03 14:06:54.570 +07:00 [DBG] Password: 
+2025-01-03 14:06:55.105 +07:00 [DBG] UnLock successful for HID=18
+2025-01-03 14:06:58.084 +07:00 [DBG] Calling logout....
+2025-01-03 14:06:59.561 +07:00 [DBG] Logout successfully.
+2025-01-03 14:07:02.883 +07:00 [DBG] Calling unlock ....
+2025-01-03 14:07:02.887 +07:00 [DBG] Username: 
+2025-01-03 14:07:02.888 +07:00 [DBG] Password: 
+2025-01-03 14:07:03.414 +07:00 [DBG] UnLock successful for HID=18
+2025-01-03 14:07:06.482 +07:00 [DBG] Calling login....
+2025-01-03 14:07:07.006 +07:00 [INF] Login successful
+2025-01-03 14:07:10.027 +07:00 [DBG] Calling unlock ....
+2025-01-03 14:07:10.028 +07:00 [DBG] Username: 
+2025-01-03 14:07:10.028 +07:00 [DBG] Password: 
+2025-01-03 14:07:10.555 +07:00 [DBG] UnLock successful for HID=18
+2025-01-03 14:07:13.781 +07:00 [DBG] Calling unlock ....
+2025-01-03 14:07:13.782 +07:00 [DBG] Username: 
+2025-01-03 14:07:13.783 +07:00 [DBG] Password: 
+2025-01-03 14:07:14.325 +07:00 [DBG] UnLock successful for HID=18
+2025-01-03 14:07:17.903 +07:00 [DBG] Calling logout....
+2025-01-03 14:07:19.411 +07:00 [DBG] Logout successfully.
+2025-01-03 14:07:21.439 +07:00 [DBG] Calling unlock ....
+2025-01-03 14:07:21.441 +07:00 [DBG] Username: 
+2025-01-03 14:07:21.441 +07:00 [DBG] Password: 
+2025-01-03 14:07:22.041 +07:00 [DBG] UnLock successful for HID=18
+2025-01-03 14:11:06.318 +07:00 [DBG] Calling unlock ....
+2025-01-03 14:11:06.320 +07:00 [DBG] Username: 
+2025-01-03 14:11:06.320 +07:00 [DBG] Password: 
+2025-01-03 14:11:07.415 +07:00 [DBG] UnLock successful for HID=18
+2025-01-03 14:11:14.303 +07:00 [DBG] Calling unlock ....
+2025-01-03 14:11:14.314 +07:00 [DBG] Username: 
+2025-01-03 14:11:14.314 +07:00 [DBG] Password: 
+2025-01-03 14:11:15.980 +07:00 [DBG] UnLock successful for HID=18
+2025-01-03 14:11:28.721 +07:00 [DBG] Calling unlock ....
+2025-01-03 14:11:28.722 +07:00 [DBG] Username: 
+2025-01-03 14:11:28.723 +07:00 [DBG] Password: 
+2025-01-03 14:11:29.905 +07:00 [DBG] UnLock successful for HID=18
+2025-01-03 14:46:28.978 +07:00 [DBG] Calling unlock ....
+2025-01-03 14:46:28.981 +07:00 [DBG] Username: 
+2025-01-03 14:46:28.983 +07:00 [DBG] Password: 
+2025-01-03 14:46:30.020 +07:00 [DBG] UnLock successful for HID=18
+2025-01-03 14:46:33.175 +07:00 [DBG] Calling unlock ....
+2025-01-03 14:46:33.177 +07:00 [DBG] Username: 
+2025-01-03 14:46:33.177 +07:00 [DBG] Password: 
+2025-01-03 14:46:33.967 +07:00 [DBG] UnLock successful for HID=18
+2025-01-03 14:46:36.589 +07:00 [DBG] Calling unlock ....
+2025-01-03 14:46:36.591 +07:00 [DBG] Username: 
+2025-01-03 14:46:36.592 +07:00 [DBG] Password: 
+2025-01-03 14:46:37.199 +07:00 [DBG] UnLock successful for HID=18
+2025-01-03 15:29:14.518 +07:00 [DBG] Calling unlock ....
+2025-01-03 15:29:14.521 +07:00 [DBG] Username: 
+2025-01-03 15:29:14.521 +07:00 [DBG] Password: 
+2025-01-03 15:29:16.047 +07:00 [DBG] UnLock successful for HID=16
+2025-01-03 16:05:32.243 +07:00 [DBG] Calling unlock ....
+2025-01-03 16:05:32.504 +07:00 [DBG] Username: 
+2025-01-03 16:05:32.513 +07:00 [DBG] Password: 
+2025-01-03 16:05:34.130 +07:00 [DBG] UnLock successful for HID=18
